@@ -1,0 +1,5697 @@
+[
+	{
+		"actor_id" : 28,
+		"movie_id" : 846,
+		"role" : "Themselves"
+	},
+	{
+		"actor_id" : 28,
+		"movie_id" : 1465,
+		"role" : "Themselves"
+	},
+	{
+		"actor_id" : 28,
+		"movie_id" : 1681,
+		"role" : "Themselves"
+	},
+	{
+		"actor_id" : 28,
+		"movie_id" : 1975,
+		"role" : "Themselves"
+	},
+	{
+		"actor_id" : 28,
+		"movie_id" : 2009,
+		"role" : "Themselves - Performers"
+	},
+	{
+		"actor_id" : 35,
+		"movie_id" : 2252,
+		"role" : "(segment \"Id\")"
+	},
+	{
+		"actor_id" : 38,
+		"movie_id" : 1487,
+		"role" : "Himself"
+	},
+	{
+		"actor_id" : 38,
+		"movie_id" : 2258,
+		"role" : "Himself"
+	},
+	{
+		"actor_id" : 38,
+		"movie_id" : 2331,
+		"role" : "Himself"
+	},
+	{
+		"actor_id" : 38,
+		"movie_id" : 2581,
+		"role" : "Performer and winner of \"Hey "
+	},
+	{
+		"actor_id" : 38,
+		"movie_id" : 2626,
+		"role" : "Himself"
+	},
+	{
+		"actor_id" : 43,
+		"movie_id" : 1737,
+		"role" : "Himself - Performer"
+	},
+	{
+		"actor_id" : 43,
+		"movie_id" : 1743,
+		"role" : "Himself"
+	},
+	{
+		"actor_id" : 43,
+		"movie_id" : 2394,
+		"role" : "Himself"
+	},
+	{
+		"actor_id" : 43,
+		"movie_id" : 2581,
+		"role" : "Himself"
+	},
+	{
+		"actor_id" : 47,
+		"movie_id" : 1975,
+		"role" : "Themselves"
+	},
+	{
+		"actor_id" : 47,
+		"movie_id" : 2009,
+		"role" : "Themselves - Presenters"
+	},
+	{
+		"actor_id" : 60,
+		"movie_id" : 1487,
+		"role" : "Himself"
+	},
+	{
+		"actor_id" : 60,
+		"movie_id" : 2040,
+		"role" : "Himself"
+	},
+	{
+		"actor_id" : 60,
+		"movie_id" : 2394,
+		"role" : "Himself"
+	},
+	{
+		"actor_id" : 68,
+		"movie_id" : 6512,
+		"role" : "Pønker"
+	},
+	{
+		"actor_id" : 94,
+		"movie_id" : 2256,
+		"role" : "Nabil"
+	},
+	{
+		"actor_id" : 94,
+		"movie_id" : 3182,
+		"role" : "Rico"
+	},
+	{
+		"actor_id" : 112,
+		"movie_id" : 9533,
+		"role" : "Printer"
+	},
+	{
+		"actor_id" : 119,
+		"movie_id" : 9533,
+		"role" : "Jäger"
+	},
+	{
+		"actor_id" : 125,
+		"movie_id" : 5218,
+		"role" : "Kollege"
+	},
+	{
+		"actor_id" : 174,
+		"movie_id" : 1300,
+		"role" : "Quincy Tarantula"
+	},
+	{
+		"actor_id" : 179,
+		"movie_id" : 692,
+		"role" : "Himself"
+	},
+	{
+		"actor_id" : 179,
+		"movie_id" : 2498,
+		"role" : "Himself"
+	},
+	{
+		"actor_id" : 182,
+		"movie_id" : 6865,
+		"role" : "Janitor #1"
+	},
+	{
+		"actor_id" : 200,
+		"movie_id" : 9239,
+		"role" : ""
+	},
+	{
+		"actor_id" : 202,
+		"movie_id" : 2063,
+		"role" : "Sjefen"
+	},
+	{
+		"actor_id" : 206,
+		"movie_id" : 1807,
+		"role" : "Bårebærer"
+	},
+	{
+		"actor_id" : 261,
+		"movie_id" : 8602,
+		"role" : ""
+	},
+	{
+		"actor_id" : 275,
+		"movie_id" : 77,
+		"role" : "Himself"
+	},
+	{
+		"actor_id" : 290,
+		"movie_id" : 7375,
+		"role" : "Master Abu Laboke"
+	},
+	{
+		"actor_id" : 320,
+		"movie_id" : 4826,
+		"role" : "Piliceman"
+	},
+	{
+		"actor_id" : 321,
+		"movie_id" : 9394,
+		"role" : "Nikusha Chachanidze"
+	},
+	{
+		"actor_id" : 334,
+		"movie_id" : 198,
+		"role" : ""
+	},
+	{
+		"actor_id" : 352,
+		"movie_id" : 8596,
+		"role" : ""
+	},
+	{
+		"actor_id" : 352,
+		"movie_id" : 8603,
+		"role" : ""
+	},
+	{
+		"actor_id" : 352,
+		"movie_id" : 9751,
+		"role" : ""
+	},
+	{
+		"actor_id" : 366,
+		"movie_id" : 5192,
+		"role" : "Santa Lucia Club Owner"
+	},
+	{
+		"actor_id" : 369,
+		"movie_id" : 5932,
+		"role" : "Arab guard"
+	},
+	{
+		"actor_id" : 375,
+		"movie_id" : 209,
+		"role" : "Karl Meyer"
+	},
+	{
+		"actor_id" : 392,
+		"movie_id" : 5372,
+		"role" : "Lucio Dawla, the singer"
+	},
+	{
+		"actor_id" : 439,
+		"movie_id" : 4623,
+		"role" : "Himself"
+	},
+	{
+		"actor_id" : 448,
+		"movie_id" : 660,
+		"role" : "Himself"
+	},
+	{
+		"actor_id" : 448,
+		"movie_id" : 4618,
+		"role" : "Lester"
+	},
+	{
+		"actor_id" : 448,
+		"movie_id" : 4619,
+		"role" : "Buzz Kurtis"
+	},
+	{
+		"actor_id" : 448,
+		"movie_id" : 4620,
+		"role" : "Bud Jones"
+	},
+	{
+		"actor_id" : 448,
+		"movie_id" : 4621,
+		"role" : "Rocky Stonebridge"
+	},
+	{
+		"actor_id" : 448,
+		"movie_id" : 4622,
+		"role" : "Slim"
+	},
+	{
+		"actor_id" : 448,
+		"movie_id" : 4623,
+		"role" : ""
+	},
+	{
+		"actor_id" : 448,
+		"movie_id" : 4624,
+		"role" : "Bud Alexander"
+	},
+	{
+		"actor_id" : 448,
+		"movie_id" : 4625,
+		"role" : "Harry Pierce"
+	},
+	{
+		"actor_id" : 448,
+		"movie_id" : 4626,
+		"role" : "Casey Edwards"
+	},
+	{
+		"actor_id" : 448,
+		"movie_id" : 4627,
+		"role" : "Peter Patterson"
+	},
+	{
+		"actor_id" : 448,
+		"movie_id" : 7642,
+		"role" : "Buzz Johnson"
+	},
+	{
+		"actor_id" : 461,
+		"movie_id" : 809,
+		"role" : "Forbus"
+	},
+	{
+		"actor_id" : 473,
+		"movie_id" : 7295,
+		"role" : "Government official"
+	},
+	{
+		"actor_id" : 480,
+		"movie_id" : 1694,
+		"role" : "Gregorius"
+	},
+	{
+		"actor_id" : 480,
+		"movie_id" : 5114,
+		"role" : "Salesman"
+	},
+	{
+		"actor_id" : 480,
+		"movie_id" : 6282,
+		"role" : "Orchestra conductor"
+	},
+	{
+		"actor_id" : 480,
+		"movie_id" : 6815,
+		"role" : "Huish"
+	},
+	{
+		"actor_id" : 485,
+		"movie_id" : 1685,
+		"role" : "Himself (New York Mets shorts"
+	},
+	{
+		"actor_id" : 494,
+		"movie_id" : 3888,
+		"role" : "Himself"
+	},
+	{
+		"actor_id" : 508,
+		"movie_id" : 1675,
+		"role" : "Himself"
+	},
+	{
+		"actor_id" : 508,
+		"movie_id" : 2042,
+		"role" : "Himself (Canadian Comedy Hall"
+	},
+	{
+		"actor_id" : 508,
+		"movie_id" : 2627,
+		"role" : "Himself (Host - The Royal Can"
+	},
+	{
+		"actor_id" : 528,
+		"movie_id" : 5277,
+		"role" : "Abu Beker, local leader"
+	},
+	{
+		"actor_id" : 535,
+		"movie_id" : 8876,
+		"role" : "Tony"
+	},
+	{
+		"actor_id" : 536,
+		"movie_id" : 8876,
+		"role" : "Toni"
+	},
+	{
+		"actor_id" : 548,
+		"movie_id" : 3311,
+		"role" : "(segment \"Tapin du soir\")"
+	},
+	{
+		"actor_id" : 550,
+		"movie_id" : 826,
+		"role" : "Fuzzy Dice Vendor"
+	},
+	{
+		"actor_id" : 563,
+		"movie_id" : 9153,
+		"role" : ""
+	},
+	{
+		"actor_id" : 563,
+		"movie_id" : 9887,
+		"role" : ""
+	},
+	{
+		"actor_id" : 569,
+		"movie_id" : 4959,
+		"role" : ""
+	},
+	{
+		"actor_id" : 569,
+		"movie_id" : 5006,
+		"role" : ""
+	},
+	{
+		"actor_id" : 623,
+		"movie_id" : 6152,
+		"role" : ""
+	},
+	{
+		"actor_id" : 623,
+		"movie_id" : 8741,
+		"role" : ""
+	},
+	{
+		"actor_id" : 654,
+		"movie_id" : 4244,
+		"role" : ""
+	},
+	{
+		"actor_id" : 656,
+		"movie_id" : 6190,
+		"role" : ""
+	},
+	{
+		"actor_id" : 665,
+		"movie_id" : 2573,
+		"role" : "Himself - performer"
+	},
+	{
+		"actor_id" : 667,
+		"movie_id" : 1805,
+		"role" : "Himself"
+	},
+	{
+		"actor_id" : 667,
+		"movie_id" : 9125,
+		"role" : "Roger Murdock"
+	},
+	{
+		"actor_id" : 671,
+		"movie_id" : 1805,
+		"role" : "Himself - Performer"
+	},
+	{
+		"actor_id" : 671,
+		"movie_id" : 2398,
+		"role" : "Himself/presenter"
+	},
+	{
+		"actor_id" : 672,
+		"movie_id" : 1805,
+		"role" : "Himself - Performer"
+	},
+	{
+		"actor_id" : 672,
+		"movie_id" : 2398,
+		"role" : "Himself/presenter"
+	},
+	{
+		"actor_id" : 673,
+		"movie_id" : 1805,
+		"role" : "Himself - Performer"
+	},
+	{
+		"actor_id" : 673,
+		"movie_id" : 2398,
+		"role" : "Himself/presenter"
+	},
+	{
+		"actor_id" : 674,
+		"movie_id" : 1805,
+		"role" : "Himself - Performer"
+	},
+	{
+		"actor_id" : 674,
+		"movie_id" : 2398,
+		"role" : "Himself/presenter"
+	},
+	{
+		"actor_id" : 687,
+		"movie_id" : 7632,
+		"role" : "Himself (Valet)"
+	},
+	{
+		"actor_id" : 694,
+		"movie_id" : 7630,
+		"role" : "Witch doctor"
+	},
+	{
+		"actor_id" : 713,
+		"movie_id" : 429,
+		"role" : ""
+	},
+	{
+		"actor_id" : 713,
+		"movie_id" : 3034,
+		"role" : ""
+	},
+	{
+		"actor_id" : 728,
+		"movie_id" : 2500,
+		"role" : ""
+	},
+	{
+		"actor_id" : 734,
+		"movie_id" : 6079,
+		"role" : "Alus"
+	},
+	{
+		"actor_id" : 744,
+		"movie_id" : 1300,
+		"role" : "Dancer"
+	},
+	{
+		"actor_id" : 745,
+		"movie_id" : 9470,
+		"role" : "Katada"
+	},
+	{
+		"actor_id" : 750,
+		"movie_id" : 9295,
+		"role" : "Yosuke Nonaka aka Muraki"
+	},
+	{
+		"actor_id" : 767,
+		"movie_id" : 8620,
+		"role" : "Aota's dad"
+	},
+	{
+		"actor_id" : 767,
+		"movie_id" : 9548,
+		"role" : "Teizo Yuasa"
+	},
+	{
+		"actor_id" : 798,
+		"movie_id" : 8249,
+		"role" : "L'agriculteur"
+	},
+	{
+		"actor_id" : 801,
+		"movie_id" : 1372,
+		"role" : "Count Berchtold"
+	},
+	{
+		"actor_id" : 831,
+		"movie_id" : 1048,
+		"role" : "Charles Gibson"
+	},
+	{
+		"actor_id" : 831,
+		"movie_id" : 7498,
+		"role" : "Richard Aiken"
+	},
+	{
+		"actor_id" : 852,
+		"movie_id" : 7832,
+		"role" : "Ted Ewing"
+	},
+	{
+		"actor_id" : 858,
+		"movie_id" : 1500,
+		"role" : "Eddie Jones (Hotel Waiter)"
+	},
+	{
+		"actor_id" : 858,
+		"movie_id" : 2720,
+		"role" : "Bob"
+	},
+	{
+		"actor_id" : 862,
+		"movie_id" : 5972,
+		"role" : "Rob Carter"
+	},
+	{
+		"actor_id" : 883,
+		"movie_id" : 6313,
+		"role" : "Secrétaire"
+	},
+	{
+		"actor_id" : 905,
+		"movie_id" : 627,
+		"role" : "Lee Lester"
+	},
+	{
+		"actor_id" : 916,
+		"movie_id" : 6248,
+		"role" : "Driver"
+	},
+	{
+		"actor_id" : 935,
+		"movie_id" : 923,
+		"role" : "Himself"
+	},
+	{
+		"actor_id" : 935,
+		"movie_id" : 2445,
+		"role" : "Himself (with Martin Luther K"
+	},
+	{
+		"actor_id" : 946,
+		"movie_id" : 7030,
+		"role" : ""
+	},
+	{
+		"actor_id" : 961,
+		"movie_id" : 9439,
+		"role" : ""
+	},
+	{
+		"actor_id" : 966,
+		"movie_id" : 9502,
+		"role" : "Arjun Srivastava"
+	},
+	{
+		"actor_id" : 1008,
+		"movie_id" : 3388,
+		"role" : ""
+	},
+	{
+		"actor_id" : 1008,
+		"movie_id" : 6625,
+		"role" : ""
+	},
+	{
+		"actor_id" : 1013,
+		"movie_id" : 2252,
+		"role" : "(segment \"Poisson Rouge\")"
+	},
+	{
+		"actor_id" : 1047,
+		"movie_id" : 6347,
+		"role" : "Pedro"
+	},
+	{
+		"actor_id" : 1058,
+		"movie_id" : 317,
+		"role" : "Kalala Wa Kalala"
+	},
+	{
+		"actor_id" : 1058,
+		"movie_id" : 7623,
+		"role" : "Guest artist"
+	},
+	{
+		"actor_id" : 1075,
+		"movie_id" : 130,
+		"role" : "Hamou"
+	},
+	{
+		"actor_id" : 1076,
+		"movie_id" : 6090,
+		"role" : ""
+	},
+	{
+		"actor_id" : 1083,
+		"movie_id" : 749,
+		"role" : "Samy"
+	},
+	{
+		"actor_id" : 1086,
+		"movie_id" : 6754,
+		"role" : "Le serveur arabe"
+	},
+	{
+		"actor_id" : 1094,
+		"movie_id" : 6313,
+		"role" : "Employé Quearenga"
+	},
+	{
+		"actor_id" : 1107,
+		"movie_id" : 351,
+		"role" : "Pantaley"
+	},
+	{
+		"actor_id" : 1107,
+		"movie_id" : 2809,
+		"role" : "Himself - Best Actor Winner"
+	},
+	{
+		"actor_id" : 1107,
+		"movie_id" : 2815,
+		"role" : "Himself - Presenter: Best Act"
+	},
+	{
+		"actor_id" : 1107,
+		"movie_id" : 7477,
+		"role" : "Lucien Haslans"
+	},
+	{
+		"actor_id" : 1108,
+		"movie_id" : 9076,
+		"role" : "St. Joseph's Player #2"
+	},
+	{
+		"actor_id" : 1110,
+		"movie_id" : 2384,
+		"role" : "Rani"
+	},
+	{
+		"actor_id" : 1114,
+		"movie_id" : 2763,
+		"role" : "Konokko"
+	},
+	{
+		"actor_id" : 1118,
+		"movie_id" : 2617,
+		"role" : "Himself (Performer)"
+	},
+	{
+		"actor_id" : 1118,
+		"movie_id" : 7361,
+		"role" : "Aryan Trivedi"
+	},
+	{
+		"actor_id" : 1124,
+		"movie_id" : 3890,
+		"role" : "Himself"
+	},
+	{
+		"actor_id" : 1125,
+		"movie_id" : 6754,
+		"role" : "Flic 1"
+	},
+	{
+		"actor_id" : 1125,
+		"movie_id" : 7184,
+		"role" : "Xavier"
+	},
+	{
+		"actor_id" : 1138,
+		"movie_id" : 160,
+		"role" : "Patient"
+	},
+	{
+		"actor_id" : 1138,
+		"movie_id" : 5900,
+		"role" : ""
+	},
+	{
+		"actor_id" : 1146,
+		"movie_id" : 400,
+		"role" : "Playroom Playmate"
+	},
+	{
+		"actor_id" : 1148,
+		"movie_id" : 2250,
+		"role" : "Det. Steve Finn"
+	},
+	{
+		"actor_id" : 1148,
+		"movie_id" : 4694,
+		"role" : "Night manager"
+	},
+	{
+		"actor_id" : 1157,
+		"movie_id" : 3643,
+		"role" : "Himself"
+	},
+	{
+		"actor_id" : 1157,
+		"movie_id" : 9125,
+		"role" : "Religious zealot #6"
+	},
+	{
+		"actor_id" : 1160,
+		"movie_id" : 3919,
+		"role" : "Milo"
+	},
+	{
+		"actor_id" : 1164,
+		"movie_id" : 1635,
+		"role" : "Himself"
+	},
+	{
+		"actor_id" : 1184,
+		"movie_id" : 2256,
+		"role" : "Hasse"
+	},
+	{
+		"actor_id" : 1201,
+		"movie_id" : 364,
+		"role" : "Eisverkäufer"
+	},
+	{
+		"actor_id" : 1209,
+		"movie_id" : 9998,
+		"role" : ""
+	},
+	{
+		"actor_id" : 1225,
+		"movie_id" : 1199,
+		"role" : "Samir (enfant)"
+	},
+	{
+		"actor_id" : 1274,
+		"movie_id" : 5571,
+		"role" : "Mr. Blatt"
+	},
+	{
+		"actor_id" : 1311,
+		"movie_id" : 3524,
+		"role" : ""
+	},
+	{
+		"actor_id" : 1311,
+		"movie_id" : 8555,
+		"role" : ""
+	},
+	{
+		"actor_id" : 1311,
+		"movie_id" : 8598,
+		"role" : ""
+	},
+	{
+		"actor_id" : 1311,
+		"movie_id" : 9665,
+		"role" : ""
+	},
+	{
+		"actor_id" : 1311,
+		"movie_id" : 9694,
+		"role" : "Picudo"
+	},
+	{
+		"actor_id" : 1323,
+		"movie_id" : 1747,
+		"role" : "Himself (NL Outfielder - Phil"
+	},
+	{
+		"actor_id" : 1348,
+		"movie_id" : 2283,
+		"role" : "Peter"
+	},
+	{
+		"actor_id" : 1362,
+		"movie_id" : 524,
+		"role" : "Polizeipräsident"
+	},
+	{
+		"actor_id" : 1362,
+		"movie_id" : 2674,
+		"role" : "Johnny"
+	},
+	{
+		"actor_id" : 1370,
+		"movie_id" : 2099,
+		"role" : "The Geoduck"
+	},
+	{
+		"actor_id" : 1391,
+		"movie_id" : 4307,
+		"role" : "Man in pub"
+	},
+	{
+		"actor_id" : 1416,
+		"movie_id" : 4363,
+		"role" : "Taylor"
+	},
+	{
+		"actor_id" : 1416,
+		"movie_id" : 7378,
+		"role" : "Taxi driver"
+	},
+	{
+		"actor_id" : 1465,
+		"movie_id" : 2755,
+		"role" : "Aranjuez"
+	},
+	{
+		"actor_id" : 1465,
+		"movie_id" : 8654,
+		"role" : ""
+	},
+	{
+		"actor_id" : 1485,
+		"movie_id" : 5272,
+		"role" : "Voz de Pío Coronado"
+	},
+	{
+		"actor_id" : 1502,
+		"movie_id" : 2224,
+		"role" : ""
+	},
+	{
+		"actor_id" : 1502,
+		"movie_id" : 5758,
+		"role" : ""
+	},
+	{
+		"actor_id" : 1505,
+		"movie_id" : 2027,
+		"role" : "Jimmy (age 8)"
+	},
+	{
+		"actor_id" : 1508,
+		"movie_id" : 2685,
+		"role" : ""
+	},
+	{
+		"actor_id" : 1555,
+		"movie_id" : 7285,
+		"role" : "Fred Vernon"
+	},
+	{
+		"actor_id" : 1578,
+		"movie_id" : 4926,
+		"role" : ""
+	},
+	{
+		"actor_id" : 1585,
+		"movie_id" : 2837,
+		"role" : "Santo"
+	},
+	{
+		"actor_id" : 1599,
+		"movie_id" : 4929,
+		"role" : "Ricardo"
+	},
+	{
+		"actor_id" : 1600,
+		"movie_id" : 3458,
+		"role" : ""
+	},
+	{
+		"actor_id" : 1636,
+		"movie_id" : 6888,
+		"role" : "Himself"
+	},
+	{
+		"actor_id" : 1640,
+		"movie_id" : 1092,
+		"role" : "Norseman"
+	},
+	{
+		"actor_id" : 1640,
+		"movie_id" : 2250,
+		"role" : "Dockmaster"
+	},
+	{
+		"actor_id" : 1644,
+		"movie_id" : 9274,
+		"role" : ""
+	},
+	{
+		"actor_id" : 1646,
+		"movie_id" : 6313,
+		"role" : "Joaquin Franklin"
+	},
+	{
+		"actor_id" : 1658,
+		"movie_id" : 6441,
+		"role" : ""
+	},
+	{
+		"actor_id" : 1667,
+		"movie_id" : 670,
+		"role" : ""
+	},
+	{
+		"actor_id" : 1668,
+		"movie_id" : 263,
+		"role" : "Board Member"
+	},
+	{
+		"actor_id" : 1668,
+		"movie_id" : 2382,
+		"role" : "Teacher in hallway"
+	},
+	{
+		"actor_id" : 1668,
+		"movie_id" : 3006,
+		"role" : "Business Manager"
+	},
+	{
+		"actor_id" : 1678,
+		"movie_id" : 4507,
+		"role" : "Hick"
+	},
+	{
+		"actor_id" : 1704,
+		"movie_id" : 5644,
+		"role" : ""
+	},
+	{
+		"actor_id" : 1722,
+		"movie_id" : 7999,
+		"role" : "Museum curator"
+	},
+	{
+		"actor_id" : 1733,
+		"movie_id" : 7999,
+		"role" : "Newman's Son"
+	},
+	{
+		"actor_id" : 1737,
+		"movie_id" : 7952,
+		"role" : "Mr. Thompson"
+	},
+	{
+		"actor_id" : 1741,
+		"movie_id" : 7602,
+		"role" : "Desert Rat"
+	},
+	{
+		"actor_id" : 1755,
+		"movie_id" : 4794,
+		"role" : ""
+	},
+	{
+		"actor_id" : 1763,
+		"movie_id" : 5392,
+		"role" : ""
+	},
+	{
+		"actor_id" : 1763,
+		"movie_id" : 7164,
+		"role" : "The Prussian"
+	},
+	{
+		"actor_id" : 1765,
+		"movie_id" : 9883,
+		"role" : "Travis' man"
+	},
+	{
+		"actor_id" : 1767,
+		"movie_id" : 2136,
+		"role" : "Doyle"
+	},
+	{
+		"actor_id" : 1781,
+		"movie_id" : 8096,
+		"role" : "William Kuntsler"
+	},
+	{
+		"actor_id" : 1792,
+		"movie_id" : 9920,
+		"role" : ""
+	},
+	{
+		"actor_id" : 1809,
+		"movie_id" : 276,
+		"role" : "Manservant"
+	},
+	{
+		"actor_id" : 1810,
+		"movie_id" : 6864,
+		"role" : "Crowd"
+	},
+	{
+		"actor_id" : 1812,
+		"movie_id" : 6219,
+		"role" : "Himself"
+	},
+	{
+		"actor_id" : 1822,
+		"movie_id" : 2988,
+		"role" : "Hombre en prision"
+	},
+	{
+		"actor_id" : 1822,
+		"movie_id" : 5753,
+		"role" : ""
+	},
+	{
+		"actor_id" : 1822,
+		"movie_id" : 6439,
+		"role" : ""
+	},
+	{
+		"actor_id" : 1822,
+		"movie_id" : 8549,
+		"role" : ""
+	},
+	{
+		"actor_id" : 1823,
+		"movie_id" : 8564,
+		"role" : "Actor tocón"
+	},
+	{
+		"actor_id" : 1855,
+		"movie_id" : 5781,
+		"role" : ""
+	},
+	{
+		"actor_id" : 1859,
+		"movie_id" : 2685,
+		"role" : ""
+	},
+	{
+		"actor_id" : 1877,
+		"movie_id" : 5353,
+		"role" : ""
+	},
+	{
+		"actor_id" : 1881,
+		"movie_id" : 3388,
+		"role" : ""
+	},
+	{
+		"actor_id" : 1881,
+		"movie_id" : 5752,
+		"role" : ""
+	},
+	{
+		"actor_id" : 1891,
+		"movie_id" : 3169,
+		"role" : "Friend"
+	},
+	{
+		"actor_id" : 1954,
+		"movie_id" : 9454,
+		"role" : ""
+	},
+	{
+		"actor_id" : 1981,
+		"movie_id" : 6090,
+		"role" : ""
+	},
+	{
+		"actor_id" : 1994,
+		"movie_id" : 2773,
+		"role" : "Porky"
+	},
+	{
+		"actor_id" : 1994,
+		"movie_id" : 7961,
+		"role" : "Escort of Sexy Blonde"
+	},
+	{
+		"actor_id" : 2005,
+		"movie_id" : 5532,
+		"role" : ""
+	},
+	{
+		"actor_id" : 2005,
+		"movie_id" : 5821,
+		"role" : ""
+	},
+	{
+		"actor_id" : 2005,
+		"movie_id" : 6847,
+		"role" : ""
+	},
+	{
+		"actor_id" : 2012,
+		"movie_id" : 5833,
+		"role" : "Danny Sanchez"
+	},
+	{
+		"actor_id" : 2026,
+		"movie_id" : 9004,
+		"role" : "Warrior basketball player"
+	},
+	{
+		"actor_id" : 2027,
+		"movie_id" : 1016,
+		"role" : "Phillipe Barrachet"
+	},
+	{
+		"actor_id" : 2040,
+		"movie_id" : 2874,
+		"role" : "Himself"
+	},
+	{
+		"actor_id" : 2041,
+		"movie_id" : 9061,
+		"role" : ""
+	},
+	{
+		"actor_id" : 2042,
+		"movie_id" : 7459,
+		"role" : ""
+	},
+	{
+		"actor_id" : 2050,
+		"movie_id" : 1035,
+		"role" : "Peter"
+	},
+	{
+		"actor_id" : 2054,
+		"movie_id" : 2229,
+		"role" : "Himself"
+	},
+	{
+		"actor_id" : 2069,
+		"movie_id" : 6858,
+		"role" : "Van Thaal"
+	},
+	{
+		"actor_id" : 2091,
+		"movie_id" : 3489,
+		"role" : ""
+	},
+	{
+		"actor_id" : 2115,
+		"movie_id" : 1888,
+		"role" : "Andrej"
+	},
+	{
+		"actor_id" : 2158,
+		"movie_id" : 3100,
+		"role" : "Omar"
+	},
+	{
+		"actor_id" : 2162,
+		"movie_id" : 9128,
+		"role" : "Cmdr. Reed"
+	},
+	{
+		"actor_id" : 2163,
+		"movie_id" : 7942,
+		"role" : ""
+	},
+	{
+		"actor_id" : 2168,
+		"movie_id" : 1955,
+		"role" : "Himself"
+	},
+	{
+		"actor_id" : 2179,
+		"movie_id" : 2017,
+		"role" : "Billy"
+	},
+	{
+		"actor_id" : 2189,
+		"movie_id" : 1543,
+		"role" : "Simon Pepper"
+	},
+	{
+		"actor_id" : 2192,
+		"movie_id" : 958,
+		"role" : "Himself - Presenter"
+	},
+	{
+		"actor_id" : 2192,
+		"movie_id" : 2719,
+		"role" : "Himself"
+	},
+	{
+		"actor_id" : 2192,
+		"movie_id" : 2930,
+		"role" : "Himself - Performer: 'Have Yo"
+	},
+	{
+		"actor_id" : 2193,
+		"movie_id" : 6721,
+		"role" : "Himself"
+	},
+	{
+		"actor_id" : 2199,
+		"movie_id" : 5166,
+		"role" : "Basketball Player"
+	},
+	{
+		"actor_id" : 2217,
+		"movie_id" : 689,
+		"role" : "Himself"
+	},
+	{
+		"actor_id" : 2223,
+		"movie_id" : 4971,
+		"role" : "2nd Police Official"
+	},
+	{
+		"actor_id" : 2231,
+		"movie_id" : 980,
+		"role" : "Narrator"
+	},
+	{
+		"actor_id" : 2236,
+		"movie_id" : 6949,
+		"role" : "Gingis Von"
+	},
+	{
+		"actor_id" : 2270,
+		"movie_id" : 2882,
+		"role" : "Henchman"
+	},
+	{
+		"actor_id" : 2270,
+		"movie_id" : 7036,
+		"role" : "Pickpocket"
+	},
+	{
+		"actor_id" : 2304,
+		"movie_id" : 2500,
+		"role" : "Von Hausen"
+	},
+	{
+		"actor_id" : 2323,
+		"movie_id" : 556,
+		"role" : "Jared"
+	},
+	{
+		"actor_id" : 2339,
+		"movie_id" : 7674,
+		"role" : ""
+	},
+	{
+		"actor_id" : 2339,
+		"movie_id" : 8300,
+		"role" : ""
+	},
+	{
+		"actor_id" : 2344,
+		"movie_id" : 612,
+		"role" : "Brandon Herald"
+	},
+	{
+		"actor_id" : 2355,
+		"movie_id" : 6906,
+		"role" : "Rent Collector"
+	},
+	{
+		"actor_id" : 2355,
+		"movie_id" : 6907,
+		"role" : "Insp. Hoge"
+	},
+	{
+		"actor_id" : 2356,
+		"movie_id" : 9005,
+		"role" : "Giant"
+	},
+	{
+		"actor_id" : 2379,
+		"movie_id" : 2470,
+		"role" : "Desk sergeant"
+	},
+	{
+		"actor_id" : 2384,
+		"movie_id" : 7097,
+		"role" : "Old Crusader"
+	},
+	{
+		"actor_id" : 2384,
+		"movie_id" : 8182,
+		"role" : "Jenkins, Mingott's Butler"
+	},
+	{
+		"actor_id" : 2399,
+		"movie_id" : 6125,
+		"role" : "Ray Mellette"
+	},
+	{
+		"actor_id" : 2430,
+		"movie_id" : 8362,
+		"role" : "Member of the Tom Jones Band"
+	},
+	{
+		"actor_id" : 2437,
+		"movie_id" : 7094,
+		"role" : "Hall"
+	},
+	{
+		"actor_id" : 2442,
+		"movie_id" : 7833,
+		"role" : "DMV Agent"
+	},
+	{
+		"actor_id" : 2449,
+		"movie_id" : 6768,
+		"role" : "Courier"
+	},
+	{
+		"actor_id" : 2486,
+		"movie_id" : 1054,
+		"role" : "Finney"
+	},
+	{
+		"actor_id" : 2488,
+		"movie_id" : 7545,
+		"role" : "Mel Gordon"
+	},
+	{
+		"actor_id" : 2488,
+		"movie_id" : 7809,
+		"role" : "Ben McHenry"
+	},
+	{
+		"actor_id" : 2488,
+		"movie_id" : 7997,
+		"role" : "Jim O'Neil"
+	},
+	{
+		"actor_id" : 2494,
+		"movie_id" : 4921,
+		"role" : "Town Sheriff"
+	},
+	{
+		"actor_id" : 2494,
+		"movie_id" : 5847,
+		"role" : "Tom Sloan"
+	},
+	{
+		"actor_id" : 2511,
+		"movie_id" : 691,
+		"role" : "Himself"
+	},
+	{
+		"actor_id" : 2511,
+		"movie_id" : 9793,
+		"role" : "Monty Siracusa"
+	},
+	{
+		"actor_id" : 2539,
+		"movie_id" : 9005,
+		"role" : "Timberwolf"
+	},
+	{
+		"actor_id" : 2545,
+		"movie_id" : 9616,
+		"role" : "Himself"
+	},
+	{
+		"actor_id" : 2559,
+		"movie_id" : 2342,
+		"role" : "Red Cap"
+	},
+	{
+		"actor_id" : 2559,
+		"movie_id" : 7178,
+		"role" : "Second Porter"
+	},
+	{
+		"actor_id" : 2559,
+		"movie_id" : 7682,
+		"role" : "Tolu"
+	},
+	{
+		"actor_id" : 2576,
+		"movie_id" : 7007,
+		"role" : "Mr. Bradish"
+	},
+	{
+		"actor_id" : 2583,
+		"movie_id" : 7126,
+		"role" : "Blister Sanderson"
+	},
+	{
+		"actor_id" : 2591,
+		"movie_id" : 336,
+		"role" : "Mr. Vesely"
+	},
+	{
+		"actor_id" : 2600,
+		"movie_id" : 6082,
+		"role" : ""
+	},
+	{
+		"actor_id" : 2606,
+		"movie_id" : 4721,
+		"role" : ""
+	},
+	{
+		"actor_id" : 2620,
+		"movie_id" : 9142,
+		"role" : "Studds"
+	},
+	{
+		"actor_id" : 2624,
+		"movie_id" : 5176,
+		"role" : "Student"
+	},
+	{
+		"actor_id" : 2662,
+		"movie_id" : 5212,
+		"role" : "Cawley"
+	},
+	{
+		"actor_id" : 2691,
+		"movie_id" : 353,
+		"role" : "Terry"
+	},
+	{
+		"actor_id" : 2691,
+		"movie_id" : 7979,
+		"role" : "Col. Andrew Mays"
+	},
+	{
+		"actor_id" : 2692,
+		"movie_id" : 334,
+		"role" : ""
+	},
+	{
+		"actor_id" : 2693,
+		"movie_id" : 6674,
+		"role" : ""
+	},
+	{
+		"actor_id" : 2696,
+		"movie_id" : 6925,
+		"role" : "Treasurer"
+	},
+	{
+		"actor_id" : 2699,
+		"movie_id" : 2437,
+		"role" : "Winthrop Trowbridge"
+	},
+	{
+		"actor_id" : 2700,
+		"movie_id" : 2763,
+		"role" : "Omar"
+	},
+	{
+		"actor_id" : 2702,
+		"movie_id" : 9747,
+		"role" : ""
+	},
+	{
+		"actor_id" : 2742,
+		"movie_id" : 3228,
+		"role" : "Albert Vitamin"
+	},
+	{
+		"actor_id" : 2742,
+		"movie_id" : 3236,
+		"role" : "Delivery man"
+	},
+	{
+		"actor_id" : 2752,
+		"movie_id" : 8652,
+		"role" : "Eliyahu"
+	},
+	{
+		"actor_id" : 2755,
+		"movie_id" : 5440,
+		"role" : "Macon's Doctor"
+	},
+	{
+		"actor_id" : 2774,
+		"movie_id" : 923,
+		"role" : "Himself (in limousine with JF"
+	},
+	{
+		"actor_id" : 2798,
+		"movie_id" : 7889,
+		"role" : "Mr. O'Niel"
+	},
+	{
+		"actor_id" : 2799,
+		"movie_id" : 645,
+		"role" : "Ben Linker"
+	},
+	{
+		"actor_id" : 2799,
+		"movie_id" : 8556,
+		"role" : "Perucho"
+	},
+	{
+		"actor_id" : 2802,
+		"movie_id" : 8936,
+		"role" : "Richter"
+	},
+	{
+		"actor_id" : 2812,
+		"movie_id" : 7613,
+		"role" : "Thief"
+	},
+	{
+		"actor_id" : 2812,
+		"movie_id" : 9414,
+		"role" : "Jean"
+	},
+	{
+		"actor_id" : 2818,
+		"movie_id" : 6089,
+		"role" : "Mamet"
+	},
+	{
+		"actor_id" : 2838,
+		"movie_id" : 9387,
+		"role" : "Sunil"
+	},
+	{
+		"actor_id" : 2854,
+		"movie_id" : 9502,
+		"role" : "Deepu Pradhan"
+	},
+	{
+		"actor_id" : 2867,
+		"movie_id" : 1859,
+		"role" : ""
+	},
+	{
+		"actor_id" : 2867,
+		"movie_id" : 2237,
+		"role" : "Padre"
+	},
+	{
+		"actor_id" : 2867,
+		"movie_id" : 6313,
+		"role" : "Enríquez"
+	},
+	{
+		"actor_id" : 2898,
+		"movie_id" : 400,
+		"role" : "Robbie Reimuller"
+	},
+	{
+		"actor_id" : 2906,
+		"movie_id" : 921,
+		"role" : "(segment India)"
+	},
+	{
+		"actor_id" : 2914,
+		"movie_id" : 6516,
+		"role" : "Himself"
+	},
+	{
+		"actor_id" : 2922,
+		"movie_id" : 9795,
+		"role" : "Narrator"
+	},
+	{
+		"actor_id" : 2922,
+		"movie_id" : 9802,
+		"role" : "Merchant/Narrator"
+	},
+	{
+		"actor_id" : 2924,
+		"movie_id" : 1974,
+		"role" : "Himself - Best Picture Winner"
+	},
+	{
+		"actor_id" : 2924,
+		"movie_id" : 1994,
+		"role" : "Himself - Presenter: Best Pic"
+	},
+	{
+		"actor_id" : 2925,
+		"movie_id" : 9795,
+		"role" : "Additional Voices"
+	},
+	{
+		"actor_id" : 2925,
+		"movie_id" : 9820,
+		"role" : "Mechanicles"
+	},
+	{
+		"actor_id" : 2928,
+		"movie_id" : 1985,
+		"role" : ""
+	},
+	{
+		"actor_id" : 2949,
+		"movie_id" : 3277,
+		"role" : "Christopher"
+	},
+	{
+		"actor_id" : 2950,
+		"movie_id" : 6621,
+		"role" : "Dancer"
+	},
+	{
+		"actor_id" : 2952,
+		"movie_id" : 2201,
+		"role" : "Rick Trainer"
+	},
+	{
+		"actor_id" : 2952,
+		"movie_id" : 8023,
+		"role" : "Burt Hornstein"
+	},
+	{
+		"actor_id" : 2965,
+		"movie_id" : 5150,
+		"role" : "Uncle Santos Malderone"
+	},
+	{
+		"actor_id" : 2971,
+		"movie_id" : 9632,
+		"role" : ""
+	},
+	{
+		"actor_id" : 2998,
+		"movie_id" : 5934,
+		"role" : ""
+	},
+	{
+		"actor_id" : 2998,
+		"movie_id" : 7131,
+		"role" : "Raum, chief Nazi Agent"
+	},
+	{
+		"actor_id" : 3003,
+		"movie_id" : 5671,
+		"role" : ""
+	},
+	{
+		"actor_id" : 3017,
+		"movie_id" : 7173,
+		"role" : "Will Brown"
+	},
+	{
+		"actor_id" : 3030,
+		"movie_id" : 2223,
+		"role" : "Himself"
+	},
+	{
+		"actor_id" : 3049,
+		"movie_id" : 5573,
+		"role" : "Vinnie"
+	},
+	{
+		"actor_id" : 3055,
+		"movie_id" : 390,
+		"role" : "Larry(Harry ?)"
+	},
+	{
+		"actor_id" : 3055,
+		"movie_id" : 548,
+		"role" : "Wagner"
+	},
+	{
+		"actor_id" : 3055,
+		"movie_id" : 549,
+		"role" : "Wagner"
+	},
+	{
+		"actor_id" : 3055,
+		"movie_id" : 550,
+		"role" : "Wagner"
+	},
+	{
+		"actor_id" : 3055,
+		"movie_id" : 3341,
+		"role" : "Tagliabue"
+	},
+	{
+		"actor_id" : 3055,
+		"movie_id" : 4767,
+		"role" : ""
+	},
+	{
+		"actor_id" : 3055,
+		"movie_id" : 4931,
+		"role" : "Enzo"
+	},
+	{
+		"actor_id" : 3064,
+		"movie_id" : 3335,
+		"role" : ""
+	},
+	{
+		"actor_id" : 3067,
+		"movie_id" : 5007,
+		"role" : "Fighting boy"
+	},
+	{
+		"actor_id" : 3085,
+		"movie_id" : 1623,
+		"role" : "Himself"
+	},
+	{
+		"actor_id" : 3116,
+		"movie_id" : 6384,
+		"role" : "Capitaine Para"
+	},
+	{
+		"actor_id" : 3116,
+		"movie_id" : 7464,
+		"role" : "Le Capitaine de Gendarmerie"
+	},
+	{
+		"actor_id" : 3121,
+		"movie_id" : 9852,
+		"role" : "Himself"
+	},
+	{
+		"actor_id" : 3133,
+		"movie_id" : 6556,
+		"role" : "Harvard Interviewer"
+	},
+	{
+		"actor_id" : 3135,
+		"movie_id" : 5802,
+		"role" : "Black assistant"
+	},
+	{
+		"actor_id" : 3148,
+		"movie_id" : 4291,
+		"role" : ""
+	},
+	{
+		"actor_id" : 3148,
+		"movie_id" : 4497,
+		"role" : ""
+	},
+	{
+		"actor_id" : 3148,
+		"movie_id" : 4858,
+		"role" : "Devdas"
+	},
+	{
+		"actor_id" : 3152,
+		"movie_id" : 700,
+		"role" : "Big Loc"
+	},
+	{
+		"actor_id" : 3181,
+		"movie_id" : 1740,
+		"role" : "Themselves"
+	},
+	{
+		"actor_id" : 3181,
+		"movie_id" : 2009,
+		"role" : "Themselves"
+	},
+	{
+		"actor_id" : 3181,
+		"movie_id" : 2302,
+		"role" : "Themselves - Performers"
+	},
+	{
+		"actor_id" : 3191,
+		"movie_id" : 6557,
+		"role" : "Rude Man"
+	},
+	{
+		"actor_id" : 3217,
+		"movie_id" : 8043,
+		"role" : "Shoemaker"
+	},
+	{
+		"actor_id" : 3225,
+		"movie_id" : 846,
+		"role" : "Himself - #100: Ben Affleck's"
+	},
+	{
+		"actor_id" : 3225,
+		"movie_id" : 1474,
+		"role" : "Himself"
+	},
+	{
+		"actor_id" : 3225,
+		"movie_id" : 1664,
+		"role" : "Bartender"
+	},
+	{
+		"actor_id" : 3225,
+		"movie_id" : 1674,
+		"role" : "Himself"
+	},
+	{
+		"actor_id" : 3225,
+		"movie_id" : 1725,
+		"role" : "Himself"
+	},
+	{
+		"actor_id" : 3225,
+		"movie_id" : 3021,
+		"role" : "Himself - Best Original Scree"
+	},
+	{
+		"actor_id" : 3225,
+		"movie_id" : 3044,
+		"role" : "Himself"
+	},
+	{
+		"actor_id" : 3225,
+		"movie_id" : 3053,
+		"role" : "Himself - Presenter: Best Ori"
+	},
+	{
+		"actor_id" : 3225,
+		"movie_id" : 7584,
+		"role" : "Himself"
+	},
+	{
+		"actor_id" : 3226,
+		"movie_id" : 1664,
+		"role" : "Tom"
+	},
+	{
+		"actor_id" : 3246,
+		"movie_id" : 5297,
+		"role" : "Zinab"
+	},
+	{
+		"actor_id" : 3250,
+		"movie_id" : 5185,
+		"role" : "Himself"
+	},
+	{
+		"actor_id" : 3250,
+		"movie_id" : 7464,
+		"role" : "Nadim"
+	},
+	{
+		"actor_id" : 3275,
+		"movie_id" : 1520,
+		"role" : "Roberto"
+	},
+	{
+		"actor_id" : 3275,
+		"movie_id" : 8908,
+		"role" : "Le faux plombier"
+	},
+	{
+		"actor_id" : 3290,
+		"movie_id" : 6661,
+		"role" : ""
+	},
+	{
+		"actor_id" : 3290,
+		"movie_id" : 9937,
+		"role" : "van Tessen"
+	},
+	{
+		"actor_id" : 3301,
+		"movie_id" : 1379,
+		"role" : "Sauna Man"
+	},
+	{
+		"actor_id" : 3309,
+		"movie_id" : 8842,
+		"role" : "Amonasro"
+	},
+	{
+		"actor_id" : 3310,
+		"movie_id" : 3291,
+		"role" : "Grocer"
+	},
+	{
+		"actor_id" : 3336,
+		"movie_id" : 725,
+		"role" : "Himself"
+	},
+	{
+		"actor_id" : 3336,
+		"movie_id" : 726,
+		"role" : "Himself"
+	},
+	{
+		"actor_id" : 3336,
+		"movie_id" : 732,
+		"role" : "Himself"
+	},
+	{
+		"actor_id" : 3336,
+		"movie_id" : 736,
+		"role" : "Himself"
+	},
+	{
+		"actor_id" : 3336,
+		"movie_id" : 3046,
+		"role" : "Himself (Memorial Tribute)"
+	},
+	{
+		"actor_id" : 3336,
+		"movie_id" : 3053,
+		"role" : "Himself (Memorial Tribute)"
+	},
+	{
+		"actor_id" : 3336,
+		"movie_id" : 6800,
+		"role" : "Tom Wade"
+	},
+	{
+		"actor_id" : 3349,
+		"movie_id" : 4209,
+		"role" : "President of the City Council"
+	},
+	{
+		"actor_id" : 3349,
+		"movie_id" : 4509,
+		"role" : ""
+	},
+	{
+		"actor_id" : 3349,
+		"movie_id" : 8410,
+		"role" : "Raibhya"
+	},
+	{
+		"actor_id" : 3349,
+		"movie_id" : 9502,
+		"role" : "Prime Minister"
+	},
+	{
+		"actor_id" : 3373,
+		"movie_id" : 18,
+		"role" : "News Producer"
+	},
+	{
+		"actor_id" : 3375,
+		"movie_id" : 4749,
+		"role" : ""
+	},
+	{
+		"actor_id" : 3376,
+		"movie_id" : 1685,
+		"role" : "Himself (New York Mets left F"
+	},
+	{
+		"actor_id" : 3384,
+		"movie_id" : 827,
+		"role" : ""
+	},
+	{
+		"actor_id" : 3394,
+		"movie_id" : 8207,
+		"role" : "Himself"
+	},
+	{
+		"actor_id" : 3401,
+		"movie_id" : 5833,
+		"role" : "Briggs"
+	},
+	{
+		"actor_id" : 3418,
+		"movie_id" : 7948,
+		"role" : "Rosen"
+	},
+	{
+		"actor_id" : 3421,
+		"movie_id" : 9543,
+		"role" : "Singer"
+	},
+	{
+		"actor_id" : 3424,
+		"movie_id" : 6584,
+		"role" : "Young man"
+	},
+	{
+		"actor_id" : 3440,
+		"movie_id" : 6307,
+		"role" : ""
+	},
+	{
+		"actor_id" : 3442,
+		"movie_id" : 2191,
+		"role" : "Himself"
+	},
+	{
+		"actor_id" : 3451,
+		"movie_id" : 4068,
+		"role" : ""
+	},
+	{
+		"actor_id" : 3451,
+		"movie_id" : 4080,
+		"role" : "Prem"
+	},
+	{
+		"actor_id" : 3451,
+		"movie_id" : 4086,
+		"role" : ""
+	},
+	{
+		"actor_id" : 3451,
+		"movie_id" : 4155,
+		"role" : ""
+	},
+	{
+		"actor_id" : 3451,
+		"movie_id" : 4319,
+		"role" : ""
+	},
+	{
+		"actor_id" : 3451,
+		"movie_id" : 4859,
+		"role" : ""
+	},
+	{
+		"actor_id" : 3451,
+		"movie_id" : 9388,
+		"role" : ""
+	},
+	{
+		"actor_id" : 3452,
+		"movie_id" : 6351,
+		"role" : ""
+	},
+	{
+		"actor_id" : 3530,
+		"movie_id" : 4119,
+		"role" : ""
+	},
+	{
+		"actor_id" : 3533,
+		"movie_id" : 4451,
+		"role" : "Avi (Baba's brother)"
+	},
+	{
+		"actor_id" : 3554,
+		"movie_id" : 3169,
+		"role" : "Production Secretary"
+	},
+	{
+		"actor_id" : 3555,
+		"movie_id" : 7473,
+		"role" : "Inspecteur Rouyère"
+	},
+	{
+		"actor_id" : 3556,
+		"movie_id" : 2447,
+		"role" : "Tenente Brunelli"
+	},
+	{
+		"actor_id" : 3562,
+		"movie_id" : 7982,
+		"role" : "Restaurant Owner"
+	},
+	{
+		"actor_id" : 3565,
+		"movie_id" : 8249,
+		"role" : "Le réceptionniste de l'auberg"
+	},
+	{
+		"actor_id" : 3566,
+		"movie_id" : 2520,
+		"role" : ""
+	},
+	{
+		"actor_id" : 3566,
+		"movie_id" : 3506,
+		"role" : ""
+	},
+	{
+		"actor_id" : 3566,
+		"movie_id" : 6631,
+		"role" : ""
+	},
+	{
+		"actor_id" : 3566,
+		"movie_id" : 9642,
+		"role" : ""
+	},
+	{
+		"actor_id" : 3599,
+		"movie_id" : 7199,
+		"role" : "Delivery Man"
+	},
+	{
+		"actor_id" : 3635,
+		"movie_id" : 4025,
+		"role" : "Himself"
+	},
+	{
+		"actor_id" : 3636,
+		"movie_id" : 9188,
+		"role" : "Victor"
+	},
+	{
+		"actor_id" : 3643,
+		"movie_id" : 1026,
+		"role" : "Crandall"
+	},
+	{
+		"actor_id" : 3685,
+		"movie_id" : 5007,
+		"role" : "Amine"
+	},
+	{
+		"actor_id" : 3690,
+		"movie_id" : 9625,
+		"role" : ""
+	},
+	{
+		"actor_id" : 3701,
+		"movie_id" : 8269,
+		"role" : ""
+	},
+	{
+		"actor_id" : 3709,
+		"movie_id" : 8705,
+		"role" : "Tony Merino"
+	},
+	{
+		"actor_id" : 3709,
+		"movie_id" : 8727,
+		"role" : ""
+	},
+	{
+		"actor_id" : 3711,
+		"movie_id" : 2993,
+		"role" : ""
+	},
+	{
+		"actor_id" : 3721,
+		"movie_id" : 3135,
+		"role" : ""
+	},
+	{
+		"actor_id" : 3729,
+		"movie_id" : 204,
+		"role" : ""
+	},
+	{
+		"actor_id" : 3743,
+		"movie_id" : 9727,
+		"role" : ""
+	},
+	{
+		"actor_id" : 3757,
+		"movie_id" : 2988,
+		"role" : "Rodolfo, el Cancionero"
+	},
+	{
+		"actor_id" : 3757,
+		"movie_id" : 3399,
+		"role" : ""
+	},
+	{
+		"actor_id" : 3757,
+		"movie_id" : 3554,
+		"role" : "Luis Macías Valadez"
+	},
+	{
+		"actor_id" : 3757,
+		"movie_id" : 8141,
+		"role" : ""
+	},
+	{
+		"actor_id" : 3757,
+		"movie_id" : 9656,
+		"role" : ""
+	},
+	{
+		"actor_id" : 3787,
+		"movie_id" : 8573,
+		"role" : ""
+	},
+	{
+		"actor_id" : 3794,
+		"movie_id" : 9955,
+		"role" : "Belinchón"
+	},
+	{
+		"actor_id" : 3811,
+		"movie_id" : 9944,
+		"role" : ""
+	},
+	{
+		"actor_id" : 3827,
+		"movie_id" : 9084,
+		"role" : "Cabo Guardia Civil Control"
+	},
+	{
+		"actor_id" : 3835,
+		"movie_id" : 1296,
+		"role" : ""
+	},
+	{
+		"actor_id" : 3845,
+		"movie_id" : 9681,
+		"role" : ""
+	},
+	{
+		"actor_id" : 3846,
+		"movie_id" : 8574,
+		"role" : ""
+	},
+	{
+		"actor_id" : 3855,
+		"movie_id" : 4523,
+		"role" : ""
+	},
+	{
+		"actor_id" : 3855,
+		"movie_id" : 9730,
+		"role" : ""
+	},
+	{
+		"actor_id" : 3864,
+		"movie_id" : 6486,
+		"role" : "Father"
+	},
+	{
+		"actor_id" : 3878,
+		"movie_id" : 8563,
+		"role" : "Lui-même"
+	},
+	{
+		"actor_id" : 3889,
+		"movie_id" : 2447,
+		"role" : "Il colonnello"
+	},
+	{
+		"actor_id" : 3889,
+		"movie_id" : 6208,
+		"role" : "Paride"
+	},
+	{
+		"actor_id" : 3897,
+		"movie_id" : 8602,
+		"role" : ""
+	},
+	{
+		"actor_id" : 3906,
+		"movie_id" : 3547,
+		"role" : "Old man"
+	},
+	{
+		"actor_id" : 3906,
+		"movie_id" : 9422,
+		"role" : ""
+	},
+	{
+		"actor_id" : 3912,
+		"movie_id" : 1311,
+		"role" : "Marcos (Episodio de Adrián Su"
+	},
+	{
+		"actor_id" : 3915,
+		"movie_id" : 3241,
+		"role" : "Interviewer"
+	},
+	{
+		"actor_id" : 3932,
+		"movie_id" : 8657,
+		"role" : "Bodybuilder"
+	},
+	{
+		"actor_id" : 3935,
+		"movie_id" : 6581,
+		"role" : "Himself"
+	},
+	{
+		"actor_id" : 3971,
+		"movie_id" : 9073,
+		"role" : "David Ashe"
+	},
+	{
+		"actor_id" : 4026,
+		"movie_id" : 1050,
+		"role" : ""
+	},
+	{
+		"actor_id" : 4026,
+		"movie_id" : 9543,
+		"role" : "Jewellery thief"
+	},
+	{
+		"actor_id" : 4027,
+		"movie_id" : 2837,
+		"role" : "Christopher Masters"
+	},
+	{
+		"actor_id" : 4083,
+		"movie_id" : 4495,
+		"role" : ""
+	},
+	{
+		"actor_id" : 4106,
+		"movie_id" : 6240,
+		"role" : "Abdel Samad"
+	},
+	{
+		"actor_id" : 4106,
+		"movie_id" : 9756,
+		"role" : ""
+	},
+	{
+		"actor_id" : 4108,
+		"movie_id" : 7645,
+		"role" : "Hussein"
+	},
+	{
+		"actor_id" : 4114,
+		"movie_id" : 4680,
+		"role" : "Depak"
+	},
+	{
+		"actor_id" : 4166,
+		"movie_id" : 1750,
+		"role" : "Myung-Hak Lee"
+	},
+	{
+		"actor_id" : 4171,
+		"movie_id" : 5840,
+		"role" : "Man in theatre"
+	},
+	{
+		"actor_id" : 4171,
+		"movie_id" : 7111,
+		"role" : "Wu Tan"
+	},
+	{
+		"actor_id" : 4212,
+		"movie_id" : 8902,
+		"role" : "Health inspector Hyttinen"
+	},
+	{
+		"actor_id" : 4212,
+		"movie_id" : 9507,
+		"role" : "Elias Kankaanpää, \"Elkku\""
+	},
+	{
+		"actor_id" : 4219,
+		"movie_id" : 4334,
+		"role" : "Näyttelijäseurue: Köyhä"
+	},
+	{
+		"actor_id" : 4228,
+		"movie_id" : 5137,
+		"role" : "Teddy"
+	},
+	{
+		"actor_id" : 4247,
+		"movie_id" : 681,
+		"role" : "Ville Karlsson"
+	},
+	{
+		"actor_id" : 4247,
+		"movie_id" : 2907,
+		"role" : "66 Pelle Frisk"
+	},
+	{
+		"actor_id" : 4252,
+		"movie_id" : 2298,
+		"role" : "Kramer Sr.."
+	},
+	{
+		"actor_id" : 4265,
+		"movie_id" : 4540,
+		"role" : ""
+	},
+	{
+		"actor_id" : 4265,
+		"movie_id" : 6330,
+		"role" : "Villista"
+	},
+	{
+		"actor_id" : 4265,
+		"movie_id" : 6441,
+		"role" : ""
+	},
+	{
+		"actor_id" : 4265,
+		"movie_id" : 8705,
+		"role" : "Policeman"
+	},
+	{
+		"actor_id" : 4265,
+		"movie_id" : 8724,
+		"role" : ""
+	},
+	{
+		"actor_id" : 4265,
+		"movie_id" : 8726,
+		"role" : ""
+	},
+	{
+		"actor_id" : 4271,
+		"movie_id" : 1844,
+		"role" : "Rajguru"
+	},
+	{
+		"actor_id" : 4284,
+		"movie_id" : 9280,
+		"role" : "Joe"
+	},
+	{
+		"actor_id" : 4284,
+		"movie_id" : 9587,
+		"role" : "Kapone"
+	},
+	{
+		"actor_id" : 4286,
+		"movie_id" : 4464,
+		"role" : ""
+	},
+	{
+		"actor_id" : 4293,
+		"movie_id" : 431,
+		"role" : ""
+	},
+	{
+		"actor_id" : 4295,
+		"movie_id" : 8540,
+		"role" : ""
+	},
+	{
+		"actor_id" : 4315,
+		"movie_id" : 6151,
+		"role" : "Mr. Hopper"
+	},
+	{
+		"actor_id" : 4325,
+		"movie_id" : 1305,
+		"role" : "Vincent Dianni"
+	},
+	{
+		"actor_id" : 4325,
+		"movie_id" : 1524,
+		"role" : "Dosmo Pizzo"
+	},
+	{
+		"actor_id" : 4325,
+		"movie_id" : 2027,
+		"role" : "Frank Pesce, Sr."
+	},
+	{
+		"actor_id" : 4340,
+		"movie_id" : 2027,
+		"role" : "Jimmy Vitello"
+	},
+	{
+		"actor_id" : 4360,
+		"movie_id" : 7376,
+		"role" : "Maolajuding"
+	},
+	{
+		"actor_id" : 4364,
+		"movie_id" : 1757,
+		"role" : ""
+	},
+	{
+		"actor_id" : 4366,
+		"movie_id" : 8763,
+		"role" : "Jiro"
+	},
+	{
+		"actor_id" : 4372,
+		"movie_id" : 866,
+		"role" : "Himself"
+	},
+	{
+		"actor_id" : 4372,
+		"movie_id" : 2274,
+		"role" : "Himself - Musical Guest"
+	},
+	{
+		"actor_id" : 4372,
+		"movie_id" : 7591,
+		"role" : "Himself"
+	},
+	{
+		"actor_id" : 4379,
+		"movie_id" : 3055,
+		"role" : "Himself"
+	},
+	{
+		"actor_id" : 4416,
+		"movie_id" : 6408,
+		"role" : "Michel"
+	},
+	{
+		"actor_id" : 4421,
+		"movie_id" : 2154,
+		"role" : ""
+	},
+	{
+		"actor_id" : 4421,
+		"movie_id" : 5477,
+		"role" : "Le chauffeur"
+	},
+	{
+		"actor_id" : 4421,
+		"movie_id" : 5535,
+		"role" : "Joueur de belote"
+	},
+	{
+		"actor_id" : 4435,
+		"movie_id" : 5055,
+		"role" : "Peter Galt, Foreign Office"
+	},
+	{
+		"actor_id" : 4448,
+		"movie_id" : 6802,
+		"role" : "Second Immigration Officer"
+	},
+	{
+		"actor_id" : 4464,
+		"movie_id" : 5058,
+		"role" : ""
+	},
+	{
+		"actor_id" : 4464,
+		"movie_id" : 5490,
+		"role" : "John Andrews"
+	},
+	{
+		"actor_id" : 4487,
+		"movie_id" : 8362,
+		"role" : "Member of the Tom Jones Band"
+	},
+	{
+		"actor_id" : 4494,
+		"movie_id" : 4694,
+		"role" : "Derrick Coles"
+	},
+	{
+		"actor_id" : 4536,
+		"movie_id" : 6697,
+		"role" : "(segment \"Le cimetière des él"
+	},
+	{
+		"actor_id" : 4544,
+		"movie_id" : 1953,
+		"role" : "Himself"
+	},
+	{
+		"actor_id" : 4545,
+		"movie_id" : 6825,
+		"role" : "Bandmember"
+	},
+	{
+		"actor_id" : 4548,
+		"movie_id" : 5522,
+		"role" : "Eagle Eye"
+	},
+	{
+		"actor_id" : 4548,
+		"movie_id" : 5776,
+		"role" : "Charles Ryder"
+	},
+	{
+		"actor_id" : 4552,
+		"movie_id" : 9031,
+		"role" : ""
+	},
+	{
+		"actor_id" : 4576,
+		"movie_id" : 8043,
+		"role" : "Reporter/Neighbor"
+	},
+	{
+		"actor_id" : 4579,
+		"movie_id" : 184,
+		"role" : "Maliq"
+	},
+	{
+		"actor_id" : 4593,
+		"movie_id" : 73,
+		"role" : "Detective #1"
+	},
+	{
+		"actor_id" : 4613,
+		"movie_id" : 1970,
+		"role" : ""
+	},
+	{
+		"actor_id" : 4613,
+		"movie_id" : 4081,
+		"role" : ""
+	},
+	{
+		"actor_id" : 4613,
+		"movie_id" : 4084,
+		"role" : "Kundanlal/Sher Singh"
+	},
+	{
+		"actor_id" : 4613,
+		"movie_id" : 4137,
+		"role" : ""
+	},
+	{
+		"actor_id" : 4613,
+		"movie_id" : 4174,
+		"role" : ""
+	},
+	{
+		"actor_id" : 4613,
+		"movie_id" : 4198,
+		"role" : ""
+	},
+	{
+		"actor_id" : 4613,
+		"movie_id" : 4246,
+		"role" : ""
+	},
+	{
+		"actor_id" : 4613,
+		"movie_id" : 4406,
+		"role" : ""
+	},
+	{
+		"actor_id" : 4613,
+		"movie_id" : 4451,
+		"role" : "Uncle (underworld don)"
+	},
+	{
+		"actor_id" : 4624,
+		"movie_id" : 3197,
+		"role" : "Lang professzor"
+	},
+	{
+		"actor_id" : 4641,
+		"movie_id" : 5007,
+		"role" : "Pupil in front of school"
+	},
+	{
+		"actor_id" : 4652,
+		"movie_id" : 949,
+		"role" : ""
+	},
+	{
+		"actor_id" : 4652,
+		"movie_id" : 1160,
+		"role" : "Yasu Sasaki"
+	},
+	{
+		"actor_id" : 4670,
+		"movie_id" : 4028,
+		"role" : ""
+	},
+	{
+		"actor_id" : 4671,
+		"movie_id" : 4725,
+		"role" : "Mahmut Sevket Pasa"
+	},
+	{
+		"actor_id" : 4671,
+		"movie_id" : 6108,
+		"role" : "Müslim"
+	},
+	{
+		"actor_id" : 4696,
+		"movie_id" : 7806,
+		"role" : "Owen Gackstetter"
+	},
+	{
+		"actor_id" : 4704,
+		"movie_id" : 4938,
+		"role" : ""
+	},
+	{
+		"actor_id" : 4712,
+		"movie_id" : 5695,
+		"role" : ""
+	},
+	{
+		"actor_id" : 4712,
+		"movie_id" : 8909,
+		"role" : ""
+	},
+	{
+		"actor_id" : 4728,
+		"movie_id" : 657,
+		"role" : "Himself"
+	},
+	{
+		"actor_id" : 4739,
+		"movie_id" : 966,
+		"role" : "Steve"
+	},
+	{
+		"actor_id" : 4772,
+		"movie_id" : 4521,
+		"role" : ""
+	},
+	{
+		"actor_id" : 4782,
+		"movie_id" : 995,
+		"role" : ""
+	},
+	{
+		"actor_id" : 4797,
+		"movie_id" : 3715,
+		"role" : "Himself"
+	},
+	{
+		"actor_id" : 4802,
+		"movie_id" : 5186,
+		"role" : "Roller man"
+	},
+	{
+		"actor_id" : 4809,
+		"movie_id" : 9433,
+		"role" : "Harukiya Bartender"
+	},
+	{
+		"actor_id" : 4824,
+		"movie_id" : 400,
+		"role" : ""
+	},
+	{
+		"actor_id" : 4824,
+		"movie_id" : 9089,
+		"role" : "Romeo Cortez"
+	},
+	{
+		"actor_id" : 4833,
+		"movie_id" : 2855,
+		"role" : "Jake"
+	},
+	{
+		"actor_id" : 4840,
+		"movie_id" : 1646,
+		"role" : "Cabe Attucks"
+	},
+	{
+		"actor_id" : 4840,
+		"movie_id" : 5574,
+		"role" : "Hitu"
+	},
+	{
+		"actor_id" : 4845,
+		"movie_id" : 9883,
+		"role" : "Travis' man"
+	},
+	{
+		"actor_id" : 4846,
+		"movie_id" : 7003,
+		"role" : "Chief Executioner's Aide"
+	},
+	{
+		"actor_id" : 4871,
+		"movie_id" : 2178,
+		"role" : "Gas Pump Attendant"
+	},
+	{
+		"actor_id" : 4882,
+		"movie_id" : 117,
+		"role" : "Himself"
+	},
+	{
+		"actor_id" : 4882,
+		"movie_id" : 118,
+		"role" : "Himself"
+	},
+	{
+		"actor_id" : 4885,
+		"movie_id" : 2094,
+		"role" : "Capt. America"
+	},
+	{
+		"actor_id" : 4892,
+		"movie_id" : 4185,
+		"role" : "Vihari"
+	},
+	{
+		"actor_id" : 4892,
+		"movie_id" : 4476,
+		"role" : "Vikranth"
+	},
+	{
+		"actor_id" : 4892,
+		"movie_id" : 4491,
+		"role" : "Chandra Sekhar Azad"
+	},
+	{
+		"actor_id" : 4892,
+		"movie_id" : 8410,
+		"role" : "Yavakri"
+	},
+	{
+		"actor_id" : 4892,
+		"movie_id" : 9330,
+		"role" : "Chandu"
+	},
+	{
+		"actor_id" : 4893,
+		"movie_id" : 4055,
+		"role" : ""
+	},
+	{
+		"actor_id" : 4893,
+		"movie_id" : 4234,
+		"role" : ""
+	},
+	{
+		"actor_id" : 4893,
+		"movie_id" : 4440,
+		"role" : ""
+	},
+	{
+		"actor_id" : 4893,
+		"movie_id" : 4453,
+		"role" : "Anand"
+	},
+	{
+		"actor_id" : 4893,
+		"movie_id" : 4454,
+		"role" : ""
+	},
+	{
+		"actor_id" : 4893,
+		"movie_id" : 4455,
+		"role" : ""
+	},
+	{
+		"actor_id" : 4893,
+		"movie_id" : 4456,
+		"role" : ""
+	},
+	{
+		"actor_id" : 4893,
+		"movie_id" : 4457,
+		"role" : "Suryam"
+	},
+	{
+		"actor_id" : 4893,
+		"movie_id" : 6695,
+		"role" : ""
+	},
+	{
+		"actor_id" : 4913,
+		"movie_id" : 8910,
+		"role" : ""
+	},
+	{
+		"actor_id" : 4925,
+		"movie_id" : 2645,
+		"role" : ""
+	},
+	{
+		"actor_id" : 4950,
+		"movie_id" : 9005,
+		"role" : "Giant"
+	},
+	{
+		"actor_id" : 4951,
+		"movie_id" : 6698,
+		"role" : ""
+	},
+	{
+		"actor_id" : 4951,
+		"movie_id" : 8159,
+		"role" : ""
+	},
+	{
+		"actor_id" : 4952,
+		"movie_id" : 5296,
+		"role" : "Abuzer Kadayif/Ersin Balkan"
+	},
+	{
+		"actor_id" : 4990,
+		"movie_id" : 2545,
+		"role" : "Jerry"
+	},
+	{
+		"actor_id" : 5011,
+		"movie_id" : 8800,
+		"role" : ""
+	},
+	{
+		"actor_id" : 5030,
+		"movie_id" : 7715,
+		"role" : "Asfour"
+	},
+	{
+		"actor_id" : 5030,
+		"movie_id" : 8685,
+		"role" : ""
+	},
+	{
+		"actor_id" : 5030,
+		"movie_id" : 9408,
+		"role" : "Samir"
+	},
+	{
+		"actor_id" : 5043,
+		"movie_id" : 7715,
+		"role" : "Mimi Bey"
+	},
+	{
+		"actor_id" : 5043,
+		"movie_id" : 8684,
+		"role" : ""
+	},
+	{
+		"actor_id" : 5043,
+		"movie_id" : 9408,
+		"role" : "Amin"
+	},
+	{
+		"actor_id" : 5044,
+		"movie_id" : 6190,
+		"role" : ""
+	},
+	{
+		"actor_id" : 5045,
+		"movie_id" : 5246,
+		"role" : ""
+	},
+	{
+		"actor_id" : 5045,
+		"movie_id" : 8694,
+		"role" : ""
+	},
+	{
+		"actor_id" : 5060,
+		"movie_id" : 8682,
+		"role" : ""
+	},
+	{
+		"actor_id" : 5082,
+		"movie_id" : 9851,
+		"role" : ""
+	},
+	{
+		"actor_id" : 5092,
+		"movie_id" : 9408,
+		"role" : "Roz"
+	},
+	{
+		"actor_id" : 5107,
+		"movie_id" : 6417,
+		"role" : "Cikgu Azmi"
+	},
+	{
+		"actor_id" : 5120,
+		"movie_id" : 4521,
+		"role" : ""
+	},
+	{
+		"actor_id" : 5125,
+		"movie_id" : 917,
+		"role" : ""
+	},
+	{
+		"actor_id" : 5126,
+		"movie_id" : 917,
+		"role" : "Himself"
+	},
+	{
+		"actor_id" : 5135,
+		"movie_id" : 927,
+		"role" : "Himself"
+	},
+	{
+		"actor_id" : 5136,
+		"movie_id" : 4725,
+		"role" : "Tegmen Arif"
+	},
+	{
+		"actor_id" : 5142,
+		"movie_id" : 1578,
+		"role" : "Entraineur Italien"
+	},
+	{
+		"actor_id" : 5144,
+		"movie_id" : 8092,
+		"role" : "Luther's Trainer"
+	},
+	{
+		"actor_id" : 5155,
+		"movie_id" : 169,
+		"role" : ""
+	},
+	{
+		"actor_id" : 5173,
+		"movie_id" : 2173,
+		"role" : "Richards"
+	},
+	{
+		"actor_id" : 5186,
+		"movie_id" : 3395,
+		"role" : ""
+	},
+	{
+		"actor_id" : 5267,
+		"movie_id" : 9694,
+		"role" : "Damián"
+	},
+	{
+		"actor_id" : 5271,
+		"movie_id" : 4919,
+		"role" : "Melvin"
+	},
+	{
+		"actor_id" : 5284,
+		"movie_id" : 3182,
+		"role" : ""
+	},
+	{
+		"actor_id" : 5292,
+		"movie_id" : 9694,
+		"role" : "Obrero I"
+	},
+	{
+		"actor_id" : 5294,
+		"movie_id" : 2256,
+		"role" : "Umberto's brother"
+	},
+	{
+		"actor_id" : 5303,
+		"movie_id" : 2985,
+		"role" : ""
+	},
+	{
+		"actor_id" : 5305,
+		"movie_id" : 5106,
+		"role" : ""
+	},
+	{
+		"actor_id" : 5347,
+		"movie_id" : 3445,
+		"role" : ""
+	},
+	{
+		"actor_id" : 5347,
+		"movie_id" : 8282,
+		"role" : ""
+	},
+	{
+		"actor_id" : 5348,
+		"movie_id" : 8559,
+		"role" : ""
+	},
+	{
+		"actor_id" : 5349,
+		"movie_id" : 4915,
+		"role" : ""
+	},
+	{
+		"actor_id" : 5354,
+		"movie_id" : 8577,
+		"role" : ""
+	},
+	{
+		"actor_id" : 5387,
+		"movie_id" : 6473,
+		"role" : ""
+	},
+	{
+		"actor_id" : 5424,
+		"movie_id" : 3395,
+		"role" : "Cámara de TV"
+	},
+	{
+		"actor_id" : 5449,
+		"movie_id" : 462,
+		"role" : "Peter Borly"
+	},
+	{
+		"actor_id" : 5449,
+		"movie_id" : 479,
+		"role" : "Lindner"
+	},
+	{
+		"actor_id" : 5449,
+		"movie_id" : 4788,
+		"role" : "Rudolf, Count Lerchenau/Rudi "
+	},
+	{
+		"actor_id" : 5458,
+		"movie_id" : 4551,
+		"role" : "Didi"
+	},
+	{
+		"actor_id" : 5470,
+		"movie_id" : 1787,
+		"role" : "Lucio"
+	},
+	{
+		"actor_id" : 5479,
+		"movie_id" : 7472,
+		"role" : "Becquart"
+	},
+	{
+		"actor_id" : 5513,
+		"movie_id" : 1074,
+		"role" : "Capt Lou Albano"
+	},
+	{
+		"actor_id" : 5538,
+		"movie_id" : 702,
+		"role" : ""
+	},
+	{
+		"actor_id" : 5538,
+		"movie_id" : 1572,
+		"role" : ""
+	},
+	{
+		"actor_id" : 5544,
+		"movie_id" : 3090,
+		"role" : "Lavatory Man"
+	},
+	{
+		"actor_id" : 5587,
+		"movie_id" : 2369,
+		"role" : "Count Gionelli"
+	},
+	{
+		"actor_id" : 5587,
+		"movie_id" : 5059,
+		"role" : "Speakeasy Owner"
+	},
+	{
+		"actor_id" : 5599,
+		"movie_id" : 480,
+		"role" : "Hans Richter"
+	},
+	{
+		"actor_id" : 5626,
+		"movie_id" : 2262,
+		"role" : "Himself - Co-host"
+	},
+	{
+		"actor_id" : 5626,
+		"movie_id" : 3005,
+		"role" : "Charles Pether, Mission Teach"
+	},
+	{
+		"actor_id" : 5626,
+		"movie_id" : 5892,
+		"role" : "Harry Kruger"
+	},
+	{
+		"actor_id" : 5626,
+		"movie_id" : 5987,
+		"role" : "Orlando Higgens (Woman of Sin"
+	},
+	{
+		"actor_id" : 5627,
+		"movie_id" : 2475,
+		"role" : "Peter Latham"
+	},
+	{
+		"actor_id" : 5627,
+		"movie_id" : 2613,
+		"role" : "Himself - Performer: 'A World"
+	},
+	{
+		"actor_id" : 5627,
+		"movie_id" : 3942,
+		"role" : "Alfred"
+	},
+	{
+		"actor_id" : 5627,
+		"movie_id" : 4944,
+		"role" : "Mayor Phillips"
+	},
+	{
+		"actor_id" : 5627,
+		"movie_id" : 5449,
+		"role" : "Eddie Powers"
+	},
+	{
+		"actor_id" : 5696,
+		"movie_id" : 1372,
+		"role" : "Buchanan"
+	},
+	{
+		"actor_id" : 5696,
+		"movie_id" : 6509,
+		"role" : ""
+	},
+	{
+		"actor_id" : 5699,
+		"movie_id" : 3169,
+		"role" : "Producer"
+	},
+	{
+		"actor_id" : 5699,
+		"movie_id" : 3510,
+		"role" : "Cardinale Masoli"
+	},
+	{
+		"actor_id" : 5699,
+		"movie_id" : 7474,
+		"role" : ""
+	},
+	{
+		"actor_id" : 5699,
+		"movie_id" : 8936,
+		"role" : "Mr. Khouroulis"
+	},
+	{
+		"actor_id" : 5709,
+		"movie_id" : 5463,
+		"role" : ""
+	},
+	{
+		"actor_id" : 5718,
+		"movie_id" : 3555,
+		"role" : ""
+	},
+	{
+		"actor_id" : 5740,
+		"movie_id" : 1824,
+		"role" : "Himself"
+	},
+	{
+		"actor_id" : 5744,
+		"movie_id" : 2707,
+		"role" : "Himself"
+	},
+	{
+		"actor_id" : 5764,
+		"movie_id" : 2252,
+		"role" : "(segment \"Affreux, bêtes et t"
+	},
+	{
+		"actor_id" : 5772,
+		"movie_id" : 7,
+		"role" : ""
+	},
+	{
+		"actor_id" : 5774,
+		"movie_id" : 270,
+		"role" : ""
+	},
+	{
+		"actor_id" : 5774,
+		"movie_id" : 8629,
+		"role" : "Arthur Miller"
+	},
+	{
+		"actor_id" : 5774,
+		"movie_id" : 9117,
+		"role" : "Tommy Bogan"
+	},
+	{
+		"actor_id" : 5776,
+		"movie_id" : 2279,
+		"role" : "Himself"
+	},
+	{
+		"actor_id" : 5794,
+		"movie_id" : 1210,
+		"role" : "William Paca (MD)"
+	},
+	{
+		"actor_id" : 5796,
+		"movie_id" : 402,
+		"role" : ""
+	},
+	{
+		"actor_id" : 5830,
+		"movie_id" : 3054,
+		"role" : ""
+	},
+	{
+		"actor_id" : 5852,
+		"movie_id" : 511,
+		"role" : "Additional Voices"
+	},
+	{
+		"actor_id" : 5869,
+		"movie_id" : 9374,
+		"role" : "Stanovalec"
+	},
+	{
+		"actor_id" : 5881,
+		"movie_id" : 2960,
+		"role" : "Himself/presenter"
+	},
+	{
+		"actor_id" : 5882,
+		"movie_id" : 1651,
+		"role" : ""
+	},
+	{
+		"actor_id" : 5886,
+		"movie_id" : 5882,
+		"role" : "Bellboy"
+	},
+	{
+		"actor_id" : 5890,
+		"movie_id" : 7405,
+		"role" : "Undetermined Role"
+	},
+	{
+		"actor_id" : 5899,
+		"movie_id" : 5966,
+		"role" : ""
+	},
+	{
+		"actor_id" : 5899,
+		"movie_id" : 6006,
+		"role" : ""
+	},
+	{
+		"actor_id" : 5899,
+		"movie_id" : 9697,
+		"role" : ""
+	},
+	{
+		"actor_id" : 5899,
+		"movie_id" : 9932,
+		"role" : ""
+	},
+	{
+		"actor_id" : 5925,
+		"movie_id" : 2616,
+		"role" : "Agent Fanning"
+	},
+	{
+		"actor_id" : 5937,
+		"movie_id" : 352,
+		"role" : "Marcos"
+	},
+	{
+		"actor_id" : 5938,
+		"movie_id" : 4528,
+		"role" : "Toby"
+	},
+	{
+		"actor_id" : 5938,
+		"movie_id" : 4539,
+		"role" : ""
+	},
+	{
+		"actor_id" : 5968,
+		"movie_id" : 3458,
+		"role" : ""
+	},
+	{
+		"actor_id" : 5968,
+		"movie_id" : 4523,
+		"role" : ""
+	},
+	{
+		"actor_id" : 5968,
+		"movie_id" : 8705,
+		"role" : "Dr. Velasco"
+	},
+	{
+		"actor_id" : 5968,
+		"movie_id" : 9840,
+		"role" : ""
+	},
+	{
+		"actor_id" : 5981,
+		"movie_id" : 3428,
+		"role" : ""
+	},
+	{
+		"actor_id" : 5987,
+		"movie_id" : 3958,
+		"role" : "Dominic"
+	},
+	{
+		"actor_id" : 5990,
+		"movie_id" : 4523,
+		"role" : ""
+	},
+	{
+		"actor_id" : 5990,
+		"movie_id" : 6952,
+		"role" : ""
+	},
+	{
+		"actor_id" : 6004,
+		"movie_id" : 2683,
+		"role" : ""
+	},
+	{
+		"actor_id" : 6021,
+		"movie_id" : 2441,
+		"role" : "Don Pancho"
+	},
+	{
+		"actor_id" : 6021,
+		"movie_id" : 2660,
+		"role" : "Adolfo Jiménez, political lea"
+	},
+	{
+		"actor_id" : 6021,
+		"movie_id" : 2988,
+		"role" : "Gen. Pancho Villa"
+	},
+	{
+		"actor_id" : 6021,
+		"movie_id" : 4523,
+		"role" : ""
+	},
+	{
+		"actor_id" : 6021,
+		"movie_id" : 8708,
+		"role" : ""
+	},
+	{
+		"actor_id" : 6021,
+		"movie_id" : 9656,
+		"role" : ""
+	},
+	{
+		"actor_id" : 6031,
+		"movie_id" : 8581,
+		"role" : ""
+	},
+	{
+		"actor_id" : 6055,
+		"movie_id" : 7449,
+		"role" : "Durochat"
+	},
+	{
+		"actor_id" : 6069,
+		"movie_id" : 1136,
+		"role" : ""
+	},
+	{
+		"actor_id" : 6069,
+		"movie_id" : 2416,
+		"role" : ""
+	},
+	{
+		"actor_id" : 6069,
+		"movie_id" : 3448,
+		"role" : "Acompañante"
+	},
+	{
+		"actor_id" : 6078,
+		"movie_id" : 6642,
+		"role" : "Policia uniformado 2"
+	},
+	{
+		"actor_id" : 6082,
+		"movie_id" : 6209,
+		"role" : ""
+	},
+	{
+		"actor_id" : 6082,
+		"movie_id" : 6468,
+		"role" : ""
+	},
+	{
+		"actor_id" : 6088,
+		"movie_id" : 5758,
+		"role" : ""
+	},
+	{
+		"actor_id" : 6088,
+		"movie_id" : 8559,
+		"role" : ""
+	},
+	{
+		"actor_id" : 6090,
+		"movie_id" : 494,
+		"role" : ""
+	},
+	{
+		"actor_id" : 6092,
+		"movie_id" : 723,
+		"role" : "Himself"
+	},
+	{
+		"actor_id" : 6092,
+		"movie_id" : 1481,
+		"role" : "Himself - Presenter"
+	},
+	{
+		"actor_id" : 6092,
+		"movie_id" : 2012,
+		"role" : "Himself - Presenter"
+	},
+	{
+		"actor_id" : 6092,
+		"movie_id" : 2261,
+		"role" : "Himself - Host"
+	},
+	{
+		"actor_id" : 6092,
+		"movie_id" : 2583,
+		"role" : "Himself"
+	},
+	{
+		"actor_id" : 6092,
+		"movie_id" : 2815,
+		"role" : "Himself - Co-host"
+	},
+	{
+		"actor_id" : 6092,
+		"movie_id" : 2853,
+		"role" : "Paul Friedman"
+	},
+	{
+		"actor_id" : 6096,
+		"movie_id" : 2261,
+		"role" : "Himself"
+	},
+	{
+		"actor_id" : 6105,
+		"movie_id" : 701,
+		"role" : ""
+	},
+	{
+		"actor_id" : 6105,
+		"movie_id" : 2084,
+		"role" : ""
+	},
+	{
+		"actor_id" : 6105,
+		"movie_id" : 3521,
+		"role" : ""
+	},
+	{
+		"actor_id" : 6107,
+		"movie_id" : 5357,
+		"role" : ""
+	},
+	{
+		"actor_id" : 6121,
+		"movie_id" : 3353,
+		"role" : "Joven taberna 1"
+	},
+	{
+		"actor_id" : 6132,
+		"movie_id" : 8696,
+		"role" : "Arquero"
+	},
+	{
+		"actor_id" : 6151,
+		"movie_id" : 5525,
+		"role" : "Detective"
+	},
+	{
+		"actor_id" : 6151,
+		"movie_id" : 7153,
+		"role" : "Assistant Defense Attorney"
+	},
+	{
+		"actor_id" : 6164,
+		"movie_id" : 2486,
+		"role" : ""
+	},
+	{
+		"actor_id" : 6203,
+		"movie_id" : 2250,
+		"role" : "Holding Tank Officer"
+	},
+	{
+		"actor_id" : 6213,
+		"movie_id" : 4730,
+		"role" : "Andrew Jackson"
+	},
+	{
+		"actor_id" : 6213,
+		"movie_id" : 6020,
+		"role" : "Mike McGrath"
+	},
+	{
+		"actor_id" : 6213,
+		"movie_id" : 6800,
+		"role" : "Vestryman"
+	},
+	{
+		"actor_id" : 6213,
+		"movie_id" : 7008,
+		"role" : "Sheriff at Jail"
+	},
+	{
+		"actor_id" : 6213,
+		"movie_id" : 7153,
+		"role" : "District Attorney"
+	},
+	{
+		"actor_id" : 6213,
+		"movie_id" : 8067,
+		"role" : "Pa Ashby"
+	},
+	{
+		"actor_id" : 6216,
+		"movie_id" : 8072,
+		"role" : "Jonathan Harris"
+	},
+	{
+		"actor_id" : 6228,
+		"movie_id" : 4803,
+		"role" : "Tommy"
+	},
+	{
+		"actor_id" : 6251,
+		"movie_id" : 328,
+		"role" : "Sid Hogenson"
+	},
+	{
+		"actor_id" : 6251,
+		"movie_id" : 2816,
+		"role" : "Nominee for Best Performance "
+	},
+	{
+		"actor_id" : 6251,
+		"movie_id" : 7006,
+		"role" : "Dr. Robinson"
+	},
+	{
+		"actor_id" : 6263,
+		"movie_id" : 4366,
+		"role" : "Phil"
+	},
+	{
+		"actor_id" : 6264,
+		"movie_id" : 3024,
+		"role" : "Peterson"
+	},
+	{
+		"actor_id" : 6264,
+		"movie_id" : 4369,
+		"role" : "Victoria Driver"
+	},
+	{
+		"actor_id" : 6264,
+		"movie_id" : 6939,
+		"role" : "Barfly"
+	},
+	{
+		"actor_id" : 6264,
+		"movie_id" : 9630,
+		"role" : "Spectator"
+	},
+	{
+		"actor_id" : 6291,
+		"movie_id" : 7806,
+		"role" : "Transit Cop"
+	},
+	{
+		"actor_id" : 6300,
+		"movie_id" : 3798,
+		"role" : "Himself"
+	},
+	{
+		"actor_id" : 6301,
+		"movie_id" : 3343,
+		"role" : ""
+	},
+	{
+		"actor_id" : 6306,
+		"movie_id" : 5055,
+		"role" : "Student"
+	},
+	{
+		"actor_id" : 6310,
+		"movie_id" : 2988,
+		"role" : "Col. Enrique Garcia"
+	},
+	{
+		"actor_id" : 6310,
+		"movie_id" : 3518,
+		"role" : ""
+	},
+	{
+		"actor_id" : 6310,
+		"movie_id" : 6473,
+		"role" : ""
+	},
+	{
+		"actor_id" : 6310,
+		"movie_id" : 7248,
+		"role" : ""
+	},
+	{
+		"actor_id" : 6326,
+		"movie_id" : 7111,
+		"role" : "Capt. Wu"
+	},
+	{
+		"actor_id" : 6335,
+		"movie_id" : 9084,
+		"role" : ""
+	},
+	{
+		"actor_id" : 6338,
+		"movie_id" : 6313,
+		"role" : "Codoy"
+	},
+	{
+		"actor_id" : 6363,
+		"movie_id" : 3396,
+		"role" : ""
+	},
+	{
+		"actor_id" : 6369,
+		"movie_id" : 2259,
+		"role" : "Himself"
+	},
+	{
+		"actor_id" : 6390,
+		"movie_id" : 1348,
+		"role" : "Himself"
+	},
+	{
+		"actor_id" : 6398,
+		"movie_id" : 3114,
+		"role" : ""
+	},
+	{
+		"actor_id" : 6440,
+		"movie_id" : 6548,
+		"role" : ""
+	},
+	{
+		"actor_id" : 6453,
+		"movie_id" : 3305,
+		"role" : "Himself"
+	},
+	{
+		"actor_id" : 6473,
+		"movie_id" : 1360,
+		"role" : ""
+	},
+	{
+		"actor_id" : 6476,
+		"movie_id" : 9473,
+		"role" : ""
+	},
+	{
+		"actor_id" : 6513,
+		"movie_id" : 6048,
+		"role" : "Comandante"
+	},
+	{
+		"actor_id" : 6513,
+		"movie_id" : 6443,
+		"role" : "Martín"
+	},
+	{
+		"actor_id" : 6513,
+		"movie_id" : 8144,
+		"role" : "Don Aurelio"
+	},
+	{
+		"actor_id" : 6513,
+		"movie_id" : 8469,
+		"role" : ""
+	},
+	{
+		"actor_id" : 6513,
+		"movie_id" : 8708,
+		"role" : ""
+	},
+	{
+		"actor_id" : 6528,
+		"movie_id" : 8581,
+		"role" : ""
+	},
+	{
+		"actor_id" : 6541,
+		"movie_id" : 5477,
+		"role" : "Fradin"
+	},
+	{
+		"actor_id" : 6542,
+		"movie_id" : 6621,
+		"role" : "The single man"
+	},
+	{
+		"actor_id" : 6565,
+		"movie_id" : 8987,
+		"role" : ""
+	},
+	{
+		"actor_id" : 6581,
+		"movie_id" : 3282,
+		"role" : "Elgin"
+	},
+	{
+		"actor_id" : 6597,
+		"movie_id" : 1271,
+		"role" : ""
+	},
+	{
+		"actor_id" : 6600,
+		"movie_id" : 6679,
+		"role" : "Le cireur nègre"
+	},
+	{
+		"actor_id" : 6600,
+		"movie_id" : 8449,
+		"role" : ""
+	},
+	{
+		"actor_id" : 6605,
+		"movie_id" : 8674,
+		"role" : ""
+	},
+	{
+		"actor_id" : 6616,
+		"movie_id" : 8200,
+		"role" : "Grandson"
+	},
+	{
+		"actor_id" : 6633,
+		"movie_id" : 9888,
+		"role" : "Registrar"
+	},
+	{
+		"actor_id" : 6642,
+		"movie_id" : 5009,
+		"role" : "Husband in Supermarket"
+	},
+	{
+		"actor_id" : 6698,
+		"movie_id" : 5050,
+		"role" : "Dr. Samuels"
+	},
+	{
+		"actor_id" : 6706,
+		"movie_id" : 7961,
+		"role" : "Filing Clerk at Morgue"
+	},
+	{
+		"actor_id" : 6712,
+		"movie_id" : 2128,
+		"role" : ""
+	},
+	{
+		"actor_id" : 6722,
+		"movie_id" : 459,
+		"role" : ""
+	},
+	{
+		"actor_id" : 6722,
+		"movie_id" : 478,
+		"role" : ""
+	},
+	{
+		"actor_id" : 6722,
+		"movie_id" : 1586,
+		"role" : "Arnd Krusemark"
+	},
+	{
+		"actor_id" : 6722,
+		"movie_id" : 4788,
+		"role" : "Barmixer"
+	},
+	{
+		"actor_id" : 6722,
+		"movie_id" : 4796,
+		"role" : ""
+	},
+	{
+		"actor_id" : 6724,
+		"movie_id" : 1087,
+		"role" : "Dr. Fletcher"
+	},
+	{
+		"actor_id" : 6734,
+		"movie_id" : 5192,
+		"role" : "Ton-Up Vicar"
+	},
+	{
+		"actor_id" : 6739,
+		"movie_id" : 1373,
+		"role" : "Himself (Philadelphia Phillie"
+	},
+	{
+		"actor_id" : 6750,
+		"movie_id" : 94,
+		"role" : "Rat"
+	},
+	{
+		"actor_id" : 6762,
+		"movie_id" : 849,
+		"role" : "Lightning"
+	},
+	{
+		"actor_id" : 6762,
+		"movie_id" : 2581,
+		"role" : "Presenter"
+	},
+	{
+		"actor_id" : 6762,
+		"movie_id" : 2591,
+		"role" : "Host"
+	},
+	{
+		"actor_id" : 6762,
+		"movie_id" : 7099,
+		"role" : "Boris Badenov"
+	},
+	{
+		"actor_id" : 6821,
+		"movie_id" : 263,
+		"role" : "Gwen's Prom Date"
+	},
+	{
+		"actor_id" : 6843,
+		"movie_id" : 1432,
+		"role" : "Hawk"
+	},
+	{
+		"actor_id" : 6852,
+		"movie_id" : 3107,
+		"role" : "TV Reporter"
+	},
+	{
+		"actor_id" : 6857,
+		"movie_id" : 476,
+		"role" : "Dr. Frank"
+	},
+	{
+		"actor_id" : 6857,
+		"movie_id" : 4775,
+		"role" : "Graf Bobby Pinelski"
+	},
+	{
+		"actor_id" : 6870,
+		"movie_id" : 187,
+		"role" : "Pete Davis, henchman"
+	},
+	{
+		"actor_id" : 6870,
+		"movie_id" : 4619,
+		"role" : "Prop man"
+	},
+	{
+		"actor_id" : 6870,
+		"movie_id" : 5811,
+		"role" : "Burly Tough Guy"
+	},
+	{
+		"actor_id" : 6870,
+		"movie_id" : 7035,
+		"role" : "Ahmed's Aide"
+	},
+	{
+		"actor_id" : 6950,
+		"movie_id" : 8036,
+		"role" : ""
+	},
+	{
+		"actor_id" : 6950,
+		"movie_id" : 8126,
+		"role" : ""
+	},
+	{
+		"actor_id" : 6950,
+		"movie_id" : 8408,
+		"role" : ""
+	},
+	{
+		"actor_id" : 6950,
+		"movie_id" : 8433,
+		"role" : "Alkis Flerianos"
+	},
+	{
+		"actor_id" : 6950,
+		"movie_id" : 8476,
+		"role" : "Dimitris"
+	},
+	{
+		"actor_id" : 6950,
+		"movie_id" : 9178,
+		"role" : ""
+	},
+	{
+		"actor_id" : 6969,
+		"movie_id" : 487,
+		"role" : ""
+	},
+	{
+		"actor_id" : 6969,
+		"movie_id" : 551,
+		"role" : ""
+	},
+	{
+		"actor_id" : 6969,
+		"movie_id" : 5443,
+		"role" : ""
+	},
+	{
+		"actor_id" : 6969,
+		"movie_id" : 6500,
+		"role" : "Emiliano"
+	},
+	{
+		"actor_id" : 6969,
+		"movie_id" : 6562,
+		"role" : ""
+	},
+	{
+		"actor_id" : 6969,
+		"movie_id" : 6740,
+		"role" : ""
+	},
+	{
+		"actor_id" : 6991,
+		"movie_id" : 3252,
+		"role" : "Himself"
+	},
+	{
+		"actor_id" : 7006,
+		"movie_id" : 9933,
+		"role" : ""
+	},
+	{
+		"actor_id" : 7014,
+		"movie_id" : 2762,
+		"role" : "Performer from musical \"Titan"
+	},
+	{
+		"actor_id" : 7057,
+		"movie_id" : 2027,
+		"role" : "Italian Wedding Band"
+	},
+	{
+		"actor_id" : 7078,
+		"movie_id" : 2237,
+		"role" : "Demetrio Morel"
+	},
+	{
+		"actor_id" : 7084,
+		"movie_id" : 9834,
+		"role" : ""
+	},
+	{
+		"actor_id" : 7087,
+		"movie_id" : 6740,
+		"role" : "Ortigueira"
+	},
+	{
+		"actor_id" : 7090,
+		"movie_id" : 6584,
+		"role" : "Fireman"
+	},
+	{
+		"actor_id" : 7101,
+		"movie_id" : 1145,
+		"role" : "Reporter"
+	},
+	{
+		"actor_id" : 7119,
+		"movie_id" : 8475,
+		"role" : ""
+	},
+	{
+		"actor_id" : 7140,
+		"movie_id" : 1685,
+		"role" : "Himself (New York Mets second"
+	},
+	{
+		"actor_id" : 7141,
+		"movie_id" : 2987,
+		"role" : ""
+	},
+	{
+		"actor_id" : 7141,
+		"movie_id" : 3417,
+		"role" : "Beteg a folyosón"
+	},
+	{
+		"actor_id" : 7142,
+		"movie_id" : 3100,
+		"role" : "Big O"
+	},
+	{
+		"actor_id" : 7182,
+		"movie_id" : 2287,
+		"role" : "Himself - Presenter"
+	},
+	{
+		"actor_id" : 7198,
+		"movie_id" : 8571,
+		"role" : ""
+	},
+	{
+		"actor_id" : 7218,
+		"movie_id" : 5272,
+		"role" : "Don Carmelo"
+	},
+	{
+		"actor_id" : 7219,
+		"movie_id" : 5268,
+		"role" : ""
+	},
+	{
+		"actor_id" : 7220,
+		"movie_id" : 1050,
+		"role" : "Waiter at Café Royal"
+	},
+	{
+		"actor_id" : 7220,
+		"movie_id" : 6584,
+		"role" : "Man watching the boxing game"
+	},
+	{
+		"actor_id" : 7220,
+		"movie_id" : 6585,
+		"role" : "Man at the boxing match"
+	},
+	{
+		"actor_id" : 7221,
+		"movie_id" : 2608,
+		"role" : "Jingis"
+	},
+	{
+		"actor_id" : 7224,
+		"movie_id" : 8334,
+		"role" : ""
+	},
+	{
+		"actor_id" : 7246,
+		"movie_id" : 9870,
+		"role" : "Lulu"
+	},
+	{
+		"actor_id" : 7255,
+		"movie_id" : 7632,
+		"role" : "Himself (Cook)"
+	},
+	{
+		"actor_id" : 7256,
+		"movie_id" : 359,
+		"role" : "Special Appearance"
+	},
+	{
+		"actor_id" : 7273,
+		"movie_id" : 4160,
+		"role" : "Shopkeeper"
+	},
+	{
+		"actor_id" : 7312,
+		"movie_id" : 4098,
+		"role" : ""
+	},
+	{
+		"actor_id" : 7319,
+		"movie_id" : 4098,
+		"role" : ""
+	},
+	{
+		"actor_id" : 7322,
+		"movie_id" : 1404,
+		"role" : "Himself (trains for fight)"
+	},
+	{
+		"actor_id" : 7322,
+		"movie_id" : 1747,
+		"role" : "Himself (First Pitch Ceremony"
+	},
+	{
+		"actor_id" : 7322,
+		"movie_id" : 2040,
+		"role" : "Himself"
+	},
+	{
+		"actor_id" : 7322,
+		"movie_id" : 2613,
+		"role" : "Himself - Co-presenter: Best "
+	},
+	{
+		"actor_id" : 7342,
+		"movie_id" : 8898,
+		"role" : ""
+	},
+	{
+		"actor_id" : 7392,
+		"movie_id" : 7450,
+		"role" : "Tonin"
+	},
+	{
+		"actor_id" : 7401,
+		"movie_id" : 8454,
+		"role" : "Barun Lenbach"
+	},
+	{
+		"actor_id" : 7401,
+		"movie_id" : 9377,
+		"role" : ""
+	},
+	{
+		"actor_id" : 7416,
+		"movie_id" : 6489,
+		"role" : ""
+	},
+	{
+		"actor_id" : 7420,
+		"movie_id" : 2480,
+		"role" : "Dracula (segment \"La cavallon"
+	},
+	{
+		"actor_id" : 7422,
+		"movie_id" : 1057,
+		"role" : ""
+	},
+	{
+		"actor_id" : 7422,
+		"movie_id" : 2923,
+		"role" : "Vuja Vasic"
+	},
+	{
+		"actor_id" : 7435,
+		"movie_id" : 6240,
+		"role" : "Hussanein"
+	},
+	{
+		"actor_id" : 7437,
+		"movie_id" : 8261,
+		"role" : ""
+	},
+	{
+		"actor_id" : 7450,
+		"movie_id" : 6117,
+		"role" : "Relationship counselor"
+	},
+	{
+		"actor_id" : 7453,
+		"movie_id" : 5007,
+		"role" : "Police chief"
+	},
+	{
+		"actor_id" : 7477,
+		"movie_id" : 5264,
+		"role" : ""
+	},
+	{
+		"actor_id" : 7477,
+		"movie_id" : 6573,
+		"role" : ""
+	},
+	{
+		"actor_id" : 7481,
+		"movie_id" : 5694,
+		"role" : ""
+	},
+	{
+		"actor_id" : 7481,
+		"movie_id" : 5697,
+		"role" : ""
+	},
+	{
+		"actor_id" : 7481,
+		"movie_id" : 6423,
+		"role" : ""
+	},
+	{
+		"actor_id" : 7481,
+		"movie_id" : 7369,
+		"role" : ""
+	},
+	{
+		"actor_id" : 7481,
+		"movie_id" : 7596,
+		"role" : ""
+	},
+	{
+		"actor_id" : 7481,
+		"movie_id" : 8472,
+		"role" : ""
+	},
+	{
+		"actor_id" : 7481,
+		"movie_id" : 8589,
+		"role" : "Hasmet"
+	},
+	{
+		"actor_id" : 7481,
+		"movie_id" : 8718,
+		"role" : ""
+	},
+	{
+		"actor_id" : 7487,
+		"movie_id" : 1015,
+		"role" : ""
+	},
+	{
+		"actor_id" : 7512,
+		"movie_id" : 1007,
+		"role" : ""
+	},
+	{
+		"actor_id" : 7512,
+		"movie_id" : 6679,
+		"role" : "Un des trois gangsters"
+	},
+	{
+		"actor_id" : 7531,
+		"movie_id" : 2755,
+		"role" : "Karl"
+	},
+	{
+		"actor_id" : 7531,
+		"movie_id" : 2979,
+		"role" : ""
+	},
+	{
+		"actor_id" : 7533,
+		"movie_id" : 5704,
+		"role" : ""
+	},
+	{
+		"actor_id" : 7537,
+		"movie_id" : 6088,
+		"role" : ""
+	},
+	{
+		"actor_id" : 7572,
+		"movie_id" : 7989,
+		"role" : "Bendeleider"
+	},
+	{
+		"actor_id" : 7579,
+		"movie_id" : 8987,
+		"role" : "Le serveur sur la terrasse/Ca"
+	},
+	{
+		"actor_id" : 7588,
+		"movie_id" : 3991,
+		"role" : "Radio Announcer"
+	},
+	{
+		"actor_id" : 7640,
+		"movie_id" : 2250,
+		"role" : "'50s Young Elvis in Pink Jack"
+	},
+	{
+		"actor_id" : 7652,
+		"movie_id" : 2173,
+		"role" : "Livingston"
+	},
+	{
+		"actor_id" : 7666,
+		"movie_id" : 7438,
+		"role" : ""
+	},
+	{
+		"actor_id" : 7670,
+		"movie_id" : 453,
+		"role" : "Nico"
+	},
+	{
+		"actor_id" : 7671,
+		"movie_id" : 3099,
+		"role" : "Additional Voices"
+	},
+	{
+		"actor_id" : 7675,
+		"movie_id" : 8452,
+		"role" : "Lt. Pascal de Breuilly"
+	},
+	{
+		"actor_id" : 7692,
+		"movie_id" : 725,
+		"role" : "Himself"
+	},
+	{
+		"actor_id" : 7692,
+		"movie_id" : 726,
+		"role" : "Himself"
+	},
+	{
+		"actor_id" : 7692,
+		"movie_id" : 727,
+		"role" : "Himself"
+	},
+	{
+		"actor_id" : 7692,
+		"movie_id" : 729,
+		"role" : "Himself"
+	},
+	{
+		"actor_id" : 7704,
+		"movie_id" : 2252,
+		"role" : "(segment \"Rêve, Le\")"
+	},
+	{
+		"actor_id" : 7706,
+		"movie_id" : 6648,
+		"role" : "Adramelech"
+	},
+	{
+		"actor_id" : 7718,
+		"movie_id" : 3145,
+		"role" : "Whitewood"
+	},
+	{
+		"actor_id" : 7722,
+		"movie_id" : 4903,
+		"role" : ""
+	},
+	{
+		"actor_id" : 7726,
+		"movie_id" : 1939,
+		"role" : ""
+	},
+	{
+		"actor_id" : 7740,
+		"movie_id" : 120,
+		"role" : "Himself"
+	},
+	{
+		"actor_id" : 7742,
+		"movie_id" : 5028,
+		"role" : "Mother Malone"
+	},
+	{
+		"actor_id" : 7773,
+		"movie_id" : 6207,
+		"role" : "Mr. Boob"
+	},
+	{
+		"actor_id" : 7828,
+		"movie_id" : 1535,
+		"role" : "Andre"
+	},
+	{
+		"actor_id" : 7842,
+		"movie_id" : 3081,
+		"role" : "CID Agent"
+	},
+	{
+		"actor_id" : 7862,
+		"movie_id" : 7173,
+		"role" : "Anthony"
+	},
+	{
+		"actor_id" : 7873,
+		"movie_id" : 2486,
+		"role" : ""
+	},
+	{
+		"actor_id" : 7874,
+		"movie_id" : 2470,
+		"role" : "Pianist"
+	},
+	{
+		"actor_id" : 7914,
+		"movie_id" : 7961,
+		"role" : "Man"
+	},
+	{
+		"actor_id" : 7932,
+		"movie_id" : 9129,
+		"role" : "Operations man"
+	},
+	{
+		"actor_id" : 7953,
+		"movie_id" : 7038,
+		"role" : "Sailor"
+	},
+	{
+		"actor_id" : 7957,
+		"movie_id" : 5881,
+		"role" : "Voice in Crowd"
+	},
+	{
+		"actor_id" : 7966,
+		"movie_id" : 6614,
+		"role" : "'Dad' Mason"
+	},
+	{
+		"actor_id" : 7966,
+		"movie_id" : 7866,
+		"role" : "Harris"
+	},
+	{
+		"actor_id" : 7976,
+		"movie_id" : 6926,
+		"role" : ""
+	},
+	{
+		"actor_id" : 7985,
+		"movie_id" : 350,
+		"role" : "Tootoochy"
+	},
+	{
+		"actor_id" : 8029,
+		"movie_id" : 8198,
+		"role" : "Larkin"
+	},
+	{
+		"actor_id" : 8041,
+		"movie_id" : 1868,
+		"role" : "Roger Ames"
+	},
+	{
+		"actor_id" : 8041,
+		"movie_id" : 8235,
+		"role" : "Diaz"
+	},
+	{
+		"actor_id" : 8102,
+		"movie_id" : 5379,
+		"role" : "Narrator"
+	},
+	{
+		"actor_id" : 8123,
+		"movie_id" : 1423,
+		"role" : "Inner Party Official"
+	},
+	{
+		"actor_id" : 8131,
+		"movie_id" : 1927,
+		"role" : ""
+	},
+	{
+		"actor_id" : 8131,
+		"movie_id" : 2785,
+		"role" : "Himself - Best Song Winner"
+	},
+	{
+		"actor_id" : 8147,
+		"movie_id" : 7,
+		"role" : ""
+	},
+	{
+		"actor_id" : 8155,
+		"movie_id" : 8089,
+		"role" : "Lieutenantt Gage"
+	},
+	{
+		"actor_id" : 8157,
+		"movie_id" : 7413,
+		"role" : "Orphan"
+	},
+	{
+		"actor_id" : 8179,
+		"movie_id" : 9032,
+		"role" : "Bill 'Okay' Lewis"
+	},
+	{
+		"actor_id" : 8213,
+		"movie_id" : 1500,
+		"role" : "Hotel Manager"
+	},
+	{
+		"actor_id" : 8213,
+		"movie_id" : 4694,
+		"role" : "Dr. Mathias"
+	},
+	{
+		"actor_id" : 8216,
+		"movie_id" : 4364,
+		"role" : "David Berger"
+	},
+	{
+		"actor_id" : 8228,
+		"movie_id" : 1963,
+		"role" : "Himself"
+	},
+	{
+		"actor_id" : 8228,
+		"movie_id" : 2025,
+		"role" : "Himself - Presenter"
+	},
+	{
+		"actor_id" : 8228,
+		"movie_id" : 2288,
+		"role" : "Himself - Co-host"
+	},
+	{
+		"actor_id" : 8228,
+		"movie_id" : 2778,
+		"role" : "Himself - Memorial Tribute"
+	},
+	{
+		"actor_id" : 8251,
+		"movie_id" : 2761,
+		"role" : "Himself"
+	},
+	{
+		"actor_id" : 8251,
+		"movie_id" : 2924,
+		"role" : "Himself - Presenter"
+	},
+	{
+		"actor_id" : 8251,
+		"movie_id" : 4670,
+		"role" : "Himself"
+	},
+	{
+		"actor_id" : 8251,
+		"movie_id" : 4671,
+		"role" : "Himself"
+	},
+	{
+		"actor_id" : 8251,
+		"movie_id" : 7582,
+		"role" : "Himself"
+	},
+	{
+		"actor_id" : 8251,
+		"movie_id" : 7583,
+		"role" : "Himself"
+	},
+	{
+		"actor_id" : 8255,
+		"movie_id" : 2597,
+		"role" : "Young cop"
+	},
+	{
+		"actor_id" : 8271,
+		"movie_id" : 970,
+		"role" : "Guard"
+	},
+	{
+		"actor_id" : 8286,
+		"movie_id" : 723,
+		"role" : "Himself"
+	},
+	{
+		"actor_id" : 8286,
+		"movie_id" : 2561,
+		"role" : "Presenter"
+	},
+	{
+		"actor_id" : 8286,
+		"movie_id" : 2895,
+		"role" : "Himself"
+	},
+	{
+		"actor_id" : 8286,
+		"movie_id" : 2924,
+		"role" : "Himself"
+	},
+	{
+		"actor_id" : 8286,
+		"movie_id" : 3046,
+		"role" : "Himself - Presenter: New York"
+	},
+	{
+		"actor_id" : 8286,
+		"movie_id" : 3667,
+		"role" : "Himself"
+	},
+	{
+		"actor_id" : 8286,
+		"movie_id" : 7586,
+		"role" : "Himself"
+	},
+	{
+		"actor_id" : 8286,
+		"movie_id" : 7587,
+		"role" : "Himself"
+	},
+	{
+		"actor_id" : 8286,
+		"movie_id" : 7589,
+		"role" : "Himself"
+	},
+	{
+		"actor_id" : 8301,
+		"movie_id" : 9886,
+		"role" : "Col. Alamonte (Santa Anna's n"
+	},
+	{
+		"actor_id" : 8304,
+		"movie_id" : 2993,
+		"role" : ""
+	},
+	{
+		"actor_id" : 8310,
+		"movie_id" : 921,
+		"role" : "(segment \"United Kingdom\")"
+	},
+	{
+		"actor_id" : 8325,
+		"movie_id" : 6495,
+		"role" : ""
+	},
+	{
+		"actor_id" : 8340,
+		"movie_id" : 5377,
+		"role" : "Iaio"
+	},
+	{
+		"actor_id" : 8361,
+		"movie_id" : 2034,
+		"role" : "Mr. Steinmetz"
+	},
+	{
+		"actor_id" : 8366,
+		"movie_id" : 9087,
+		"role" : ""
+	},
+	{
+		"actor_id" : 8367,
+		"movie_id" : 9883,
+		"role" : "Travis' man"
+	},
+	{
+		"actor_id" : 8377,
+		"movie_id" : 7425,
+		"role" : "Maître Guilloche"
+	},
+	{
+		"actor_id" : 8377,
+		"movie_id" : 7447,
+		"role" : "Camille Desmoulins"
+	},
+	{
+		"actor_id" : 8387,
+		"movie_id" : 7544,
+		"role" : "Himself"
+	},
+	{
+		"actor_id" : 8421,
+		"movie_id" : 9089,
+		"role" : "Scientist"
+	},
+	{
+		"actor_id" : 8423,
+		"movie_id" : 6989,
+		"role" : "Additional Muppet Performer"
+	},
+	{
+		"actor_id" : 8438,
+		"movie_id" : 9883,
+		"role" : "Tennessean"
+	},
+	{
+		"actor_id" : 8441,
+		"movie_id" : 7545,
+		"role" : "Reverend Doughty"
+	},
+	{
+		"actor_id" : 8450,
+		"movie_id" : 7012,
+		"role" : "Rat"
+	},
+	{
+		"actor_id" : 8463,
+		"movie_id" : 958,
+		"role" : "Himself - Presenter"
+	},
+	{
+		"actor_id" : 8482,
+		"movie_id" : 1624,
+		"role" : "Himself"
+	},
+	{
+		"actor_id" : 8513,
+		"movie_id" : 6688,
+		"role" : "Sam"
+	},
+	{
+		"actor_id" : 8517,
+		"movie_id" : 6305,
+		"role" : "Lance Pirth"
+	},
+	{
+		"actor_id" : 8522,
+		"movie_id" : 6200,
+		"role" : "Filibuster"
+	},
+	{
+		"actor_id" : 8535,
+		"movie_id" : 3053,
+		"role" : "Mickey Mouse, co-presenting A"
+	},
+	{
+		"actor_id" : 8536,
+		"movie_id" : 2369,
+		"role" : "Timothy O'Brien"
+	},
+	{
+		"actor_id" : 8568,
+		"movie_id" : 2325,
+		"role" : ""
+	},
+	{
+		"actor_id" : 8568,
+		"movie_id" : 3451,
+		"role" : ""
+	},
+	{
+		"actor_id" : 8568,
+		"movie_id" : 9668,
+		"role" : "El Griego; Armando Sanchez"
+	},
+	{
+		"actor_id" : 8568,
+		"movie_id" : 9694,
+		"role" : "Comandante Guerra"
+	},
+	{
+		"actor_id" : 8579,
+		"movie_id" : 2325,
+		"role" : ""
+	},
+	{
+		"actor_id" : 8579,
+		"movie_id" : 3520,
+		"role" : "Comandante"
+	},
+	{
+		"actor_id" : 8579,
+		"movie_id" : 5000,
+		"role" : ""
+	},
+	{
+		"actor_id" : 8579,
+		"movie_id" : 8273,
+		"role" : ""
+	},
+	{
+		"actor_id" : 8579,
+		"movie_id" : 8275,
+		"role" : ""
+	},
+	{
+		"actor_id" : 8579,
+		"movie_id" : 9664,
+		"role" : "Ramon Luna"
+	},
+	{
+		"actor_id" : 8611,
+		"movie_id" : 7769,
+		"role" : ""
+	},
+	{
+		"actor_id" : 8612,
+		"movie_id" : 120,
+		"role" : "Himself"
+	},
+	{
+		"actor_id" : 8621,
+		"movie_id" : 9626,
+		"role" : ""
+	},
+	{
+		"actor_id" : 8635,
+		"movie_id" : 196,
+		"role" : "Soldier"
+	},
+	{
+		"actor_id" : 8673,
+		"movie_id" : 3566,
+		"role" : ""
+	},
+	{
+		"actor_id" : 8683,
+		"movie_id" : 8582,
+		"role" : ""
+	},
+	{
+		"actor_id" : 8691,
+		"movie_id" : 1824,
+		"role" : "Himself"
+	},
+	{
+		"actor_id" : 8692,
+		"movie_id" : 5747,
+		"role" : "Pedro"
+	},
+	{
+		"actor_id" : 8696,
+		"movie_id" : 2759,
+		"role" : "Himself - Best Cinematography"
+	},
+	{
+		"actor_id" : 8699,
+		"movie_id" : 5689,
+		"role" : "Rekrut Schaffner"
+	},
+	{
+		"actor_id" : 8700,
+		"movie_id" : 5689,
+		"role" : "Rekrut Schaffner"
+	},
+	{
+		"actor_id" : 8712,
+		"movie_id" : 8284,
+		"role" : "Zio di Lodolini"
+	},
+	{
+		"actor_id" : 8712,
+		"movie_id" : 8802,
+		"role" : "Lorot, impiegato del notaio"
+	},
+	{
+		"actor_id" : 8714,
+		"movie_id" : 7506,
+		"role" : ""
+	},
+	{
+		"actor_id" : 8728,
+		"movie_id" : 3053,
+		"role" : "Himself - Best Original Scree"
+	},
+	{
+		"actor_id" : 8728,
+		"movie_id" : 4525,
+		"role" : "Himself"
+	},
+	{
+		"actor_id" : 8730,
+		"movie_id" : 8657,
+		"role" : "Employment Agent"
+	},
+	{
+		"actor_id" : 8799,
+		"movie_id" : 1712,
+		"role" : "Vegan Night Club Dancer"
+	},
+	{
+		"actor_id" : 8815,
+		"movie_id" : 2602,
+		"role" : "Embarazado"
+	},
+	{
+		"actor_id" : 8819,
+		"movie_id" : 8529,
+		"role" : ""
+	},
+	{
+		"actor_id" : 8819,
+		"movie_id" : 8573,
+		"role" : ""
+	},
+	{
+		"actor_id" : 8824,
+		"movie_id" : 9726,
+		"role" : "Padre"
+	},
+	{
+		"actor_id" : 8844,
+		"movie_id" : 2416,
+		"role" : ""
+	},
+	{
+		"actor_id" : 8844,
+		"movie_id" : 5743,
+		"role" : ""
+	},
+	{
+		"actor_id" : 8847,
+		"movie_id" : 3502,
+		"role" : "Él mismo"
+	},
+	{
+		"actor_id" : 8847,
+		"movie_id" : 4929,
+		"role" : "Eduardo"
+	},
+	{
+		"actor_id" : 8860,
+		"movie_id" : 7173,
+		"role" : "Karl Andrews"
+	},
+	{
+		"actor_id" : 8862,
+		"movie_id" : 8468,
+		"role" : ""
+	},
+	{
+		"actor_id" : 8864,
+		"movie_id" : 6562,
+		"role" : ""
+	},
+	{
+		"actor_id" : 8873,
+		"movie_id" : 1487,
+		"role" : "Himself"
+	},
+	{
+		"actor_id" : 8873,
+		"movie_id" : 2040,
+		"role" : "Himself"
+	},
+	{
+		"actor_id" : 8873,
+		"movie_id" : 2232,
+		"role" : "Richard"
+	},
+	{
+		"actor_id" : 8873,
+		"movie_id" : 2394,
+		"role" : "Himself"
+	},
+	{
+		"actor_id" : 8873,
+		"movie_id" : 2626,
+		"role" : "Himself"
+	},
+	{
+		"actor_id" : 8874,
+		"movie_id" : 5112,
+		"role" : ""
+	},
+	{
+		"actor_id" : 8880,
+		"movie_id" : 1506,
+		"role" : "El"
+	},
+	{
+		"actor_id" : 8883,
+		"movie_id" : 7189,
+		"role" : ""
+	},
+	{
+		"actor_id" : 8895,
+		"movie_id" : 1017,
+		"role" : ""
+	},
+	{
+		"actor_id" : 8895,
+		"movie_id" : 3326,
+		"role" : ""
+	},
+	{
+		"actor_id" : 8895,
+		"movie_id" : 3439,
+		"role" : "Benito"
+	},
+	{
+		"actor_id" : 8895,
+		"movie_id" : 5272,
+		"role" : "Don Pío Coronado"
+	},
+	{
+		"actor_id" : 8895,
+		"movie_id" : 7250,
+		"role" : ""
+	},
+	{
+		"actor_id" : 8895,
+		"movie_id" : 9706,
+		"role" : ""
+	},
+	{
+		"actor_id" : 8905,
+		"movie_id" : 3522,
+		"role" : ""
+	},
+	{
+		"actor_id" : 8905,
+		"movie_id" : 5744,
+		"role" : ""
+	},
+	{
+		"actor_id" : 8905,
+		"movie_id" : 8276,
+		"role" : ""
+	},
+	{
+		"actor_id" : 8922,
+		"movie_id" : 3046,
+		"role" : "Memorial Tribute"
+	},
+	{
+		"actor_id" : 8932,
+		"movie_id" : 8479,
+		"role" : "Siriano"
+	},
+	{
+		"actor_id" : 8935,
+		"movie_id" : 1463,
+		"role" : "Himself (florida marlins left"
+	},
+	{
+		"actor_id" : 8935,
+		"movie_id" : 1747,
+		"role" : "Himself (NL Outfielder - Chic"
+	},
+	{
+		"actor_id" : 8949,
+		"movie_id" : 1695,
+		"role" : ""
+	},
+	{
+		"actor_id" : 8949,
+		"movie_id" : 8712,
+		"role" : ""
+	},
+	{
+		"actor_id" : 8950,
+		"movie_id" : 5698,
+		"role" : ""
+	},
+	{
+		"actor_id" : 8951,
+		"movie_id" : 5696,
+		"role" : ""
+	},
+	{
+		"actor_id" : 8960,
+		"movie_id" : 7099,
+		"role" : "Horse Spy #2"
+	},
+	{
+		"actor_id" : 8963,
+		"movie_id" : 1828,
+		"role" : "Schultz"
+	},
+	{
+		"actor_id" : 8963,
+		"movie_id" : 4626,
+		"role" : "Joe, Reporter"
+	},
+	{
+		"actor_id" : 8963,
+		"movie_id" : 6939,
+		"role" : "Police officer"
+	},
+	{
+		"actor_id" : 8963,
+		"movie_id" : 7512,
+		"role" : "Blair, a Hired Thug"
+	},
+	{
+		"actor_id" : 8963,
+		"movie_id" : 7961,
+		"role" : "The Kid, a Fighter"
+	},
+	{
+		"actor_id" : 8963,
+		"movie_id" : 9022,
+		"role" : "Corporal, demolition squad"
+	},
+	{
+		"actor_id" : 8986,
+		"movie_id" : 1841,
+		"role" : "Himself"
+	},
+	{
+		"actor_id" : 8986,
+		"movie_id" : 1927,
+		"role" : ""
+	},
+	{
+		"actor_id" : 9000,
+		"movie_id" : 7412,
+		"role" : "Dr. Hulst"
+	},
+	{
+		"actor_id" : 9017,
+		"movie_id" : 3453,
+		"role" : ""
+	},
+	{
+		"actor_id" : 9027,
+		"movie_id" : 7460,
+		"role" : "Lacadé"
+	},
+	{
+		"actor_id" : 9027,
+		"movie_id" : 7463,
+		"role" : "Léon Besnard"
+	},
+	{
+		"actor_id" : 9033,
+		"movie_id" : 7094,
+		"role" : "Deputy Lawson"
+	},
+	{
+		"actor_id" : 9039,
+		"movie_id" : 6006,
+		"role" : ""
+	},
+	{
+		"actor_id" : 9039,
+		"movie_id" : 8281,
+		"role" : ""
+	},
+	{
+		"actor_id" : 9070,
+		"movie_id" : 7882,
+		"role" : ""
+	},
+	{
+		"actor_id" : 9083,
+		"movie_id" : 7018,
+		"role" : "Johnny"
+	},
+	{
+		"actor_id" : 9084,
+		"movie_id" : 7018,
+		"role" : "Gang Member"
+	},
+	{
+		"actor_id" : 9111,
+		"movie_id" : 1688,
+		"role" : "Házmester"
+	},
+	{
+		"actor_id" : 9113,
+		"movie_id" : 5451,
+		"role" : ""
+	},
+	{
+		"actor_id" : 9113,
+		"movie_id" : 9754,
+		"role" : ""
+	},
+	{
+		"actor_id" : 9126,
+		"movie_id" : 8562,
+		"role" : "Hilario"
+	},
+	{
+		"actor_id" : 9129,
+		"movie_id" : 7500,
+		"role" : "Jock #1"
+	},
+	{
+		"actor_id" : 9130,
+		"movie_id" : 6674,
+		"role" : ""
+	},
+	{
+		"actor_id" : 9132,
+		"movie_id" : 3964,
+		"role" : ""
+	},
+	{
+		"actor_id" : 9132,
+		"movie_id" : 6739,
+		"role" : "Papagallo #1"
+	},
+	{
+		"actor_id" : 9132,
+		"movie_id" : 8255,
+		"role" : ""
+	},
+	{
+		"actor_id" : 9136,
+		"movie_id" : 9353,
+		"role" : "Dancer"
+	},
+	{
+		"actor_id" : 9149,
+		"movie_id" : 5934,
+		"role" : ""
+	},
+	{
+		"actor_id" : 9160,
+		"movie_id" : 8979,
+		"role" : ""
+	},
+	{
+		"actor_id" : 9171,
+		"movie_id" : 4423,
+		"role" : "Arnie Campbell"
+	},
+	{
+		"actor_id" : 9171,
+		"movie_id" : 6107,
+		"role" : "Mark Sahib"
+	},
+	{
+		"actor_id" : 9171,
+		"movie_id" : 7361,
+		"role" : "Dr. Freddie"
+	},
+	{
+		"actor_id" : 9175,
+		"movie_id" : 3476,
+		"role" : "Eduardo"
+	},
+	{
+		"actor_id" : 9176,
+		"movie_id" : 3439,
+		"role" : "Mike"
+	},
+	{
+		"actor_id" : 9176,
+		"movie_id" : 3568,
+		"role" : ""
+	},
+	{
+		"actor_id" : 9176,
+		"movie_id" : 4525,
+		"role" : "Himself"
+	},
+	{
+		"actor_id" : 9176,
+		"movie_id" : 6497,
+		"role" : ""
+	},
+	{
+		"actor_id" : 9200,
+		"movie_id" : 6394,
+		"role" : "Edo"
+	},
+	{
+		"actor_id" : 9203,
+		"movie_id" : 8021,
+		"role" : "Paramilitary #1"
+	},
+	{
+		"actor_id" : 9216,
+		"movie_id" : 9635,
+		"role" : "Nono Spartaco"
+	},
+	{
+		"actor_id" : 9246,
+		"movie_id" : 968,
+		"role" : "Coach Gilmore"
+	},
+	{
+		"actor_id" : 9267,
+		"movie_id" : 2909,
+		"role" : "Himself"
+	},
+	{
+		"actor_id" : 9267,
+		"movie_id" : 3046,
+		"role" : "Himself"
+	},
+	{
+		"actor_id" : 9267,
+		"movie_id" : 3899,
+		"role" : "Himself"
+	},
+	{
+		"actor_id" : 9297,
+		"movie_id" : 1624,
+		"role" : "Himself"
+	},
+	{
+		"actor_id" : 9309,
+		"movie_id" : 9736,
+		"role" : ""
+	},
+	{
+		"actor_id" : 9318,
+		"movie_id" : 4627,
+		"role" : "Policeman"
+	},
+	{
+		"actor_id" : 9320,
+		"movie_id" : 2471,
+		"role" : "Policeman"
+	},
+	{
+		"actor_id" : 9323,
+		"movie_id" : 606,
+		"role" : "Larry"
+	},
+	{
+		"actor_id" : 9346,
+		"movie_id" : 8910,
+		"role" : "Zihni"
+	},
+	{
+		"actor_id" : 9364,
+		"movie_id" : 9076,
+		"role" : "Mingori Team"
+	},
+	{
+		"actor_id" : 9370,
+		"movie_id" : 4184,
+		"role" : "Pappy"
+	},
+	{
+		"actor_id" : 9370,
+		"movie_id" : 4489,
+		"role" : "Velu Mooppan"
+	},
+	{
+		"actor_id" : 9373,
+		"movie_id" : 3081,
+		"role" : "Sedgwick"
+	},
+	{
+		"actor_id" : 9375,
+		"movie_id" : 1027,
+		"role" : "Anton"
+	},
+	{
+		"actor_id" : 9386,
+		"movie_id" : 9665,
+		"role" : ""
+	},
+	{
+		"actor_id" : 9391,
+		"movie_id" : 1034,
+		"role" : "Fernando"
+	},
+	{
+		"actor_id" : 9411,
+		"movie_id" : 9730,
+		"role" : ""
+	},
+	{
+		"actor_id" : 9411,
+		"movie_id" : 9951,
+		"role" : ""
+	},
+	{
+		"actor_id" : 9413,
+		"movie_id" : 3048,
+		"role" : "Tim Gonzalez"
+	},
+	{
+		"actor_id" : 9424,
+		"movie_id" : 1337,
+		"role" : "Scooby"
+	},
+	{
+		"actor_id" : 9439,
+		"movie_id" : 9665,
+		"role" : ""
+	},
+	{
+		"actor_id" : 9443,
+		"movie_id" : 4514,
+		"role" : ""
+	},
+	{
+		"actor_id" : 9452,
+		"movie_id" : 2173,
+		"role" : "Bathes"
+	},
+	{
+		"actor_id" : 9477,
+		"movie_id" : 1712,
+		"role" : "Vegan Night Club Dancer"
+	},
+	{
+		"actor_id" : 9480,
+		"movie_id" : 396,
+		"role" : "Jinetero"
+	},
+	{
+		"actor_id" : 9508,
+		"movie_id" : 3569,
+		"role" : "Narrator"
+	},
+	{
+		"actor_id" : 9513,
+		"movie_id" : 2602,
+		"role" : "Enfermero"
+	},
+	{
+		"actor_id" : 9541,
+		"movie_id" : 6629,
+		"role" : ""
+	},
+	{
+		"actor_id" : 9552,
+		"movie_id" : 9464,
+		"role" : ""
+	},
+	{
+		"actor_id" : 9552,
+		"movie_id" : 9878,
+		"role" : ""
+	},
+	{
+		"actor_id" : 9566,
+		"movie_id" : 9113,
+		"role" : "Psycho Rocker"
+	},
+	{
+		"actor_id" : 9597,
+		"movie_id" : 8480,
+		"role" : ""
+	},
+	{
+		"actor_id" : 9615,
+		"movie_id" : 9005,
+		"role" : "Giant"
+	},
+	{
+		"actor_id" : 9640,
+		"movie_id" : 5977,
+		"role" : "Herodes"
+	},
+	{
+		"actor_id" : 9648,
+		"movie_id" : 8819,
+		"role" : "Himself"
+	},
+	{
+		"actor_id" : 9669,
+		"movie_id" : 2250,
+		"role" : "Motorcycle Gang Member"
+	},
+	{
+		"actor_id" : 9685,
+		"movie_id" : 987,
+		"role" : "Police Inspector"
+	},
+	{
+		"actor_id" : 9715,
+		"movie_id" : 5107,
+		"role" : ""
+	},
+	{
+		"actor_id" : 9717,
+		"movie_id" : 9521,
+		"role" : "Jan in Lilltorpet"
+	},
+	{
+		"actor_id" : 9732,
+		"movie_id" : 4601,
+		"role" : ""
+	},
+	{
+		"actor_id" : 9732,
+		"movie_id" : 9251,
+		"role" : "Fettah"
+	},
+	{
+		"actor_id" : 9736,
+		"movie_id" : 5934,
+		"role" : ""
+	},
+	{
+		"actor_id" : 9736,
+		"movie_id" : 7293,
+		"role" : "Officer"
+	},
+	{
+		"actor_id" : 9745,
+		"movie_id" : 3543,
+		"role" : ""
+	},
+	{
+		"actor_id" : 9749,
+		"movie_id" : 7526,
+		"role" : ""
+	},
+	{
+		"actor_id" : 9770,
+		"movie_id" : 2581,
+		"role" : "Performer"
+	},
+	{
+		"actor_id" : 9773,
+		"movie_id" : 9324,
+		"role" : ""
+	},
+	{
+		"actor_id" : 9777,
+		"movie_id" : 1757,
+		"role" : "Kentaro Kaneko"
+	},
+	{
+		"actor_id" : 9781,
+		"movie_id" : 383,
+		"role" : ""
+	},
+	{
+		"actor_id" : 9801,
+		"movie_id" : 7681,
+		"role" : "Philippe Djerdan"
+	},
+	{
+		"actor_id" : 9802,
+		"movie_id" : 3470,
+		"role" : "Miguel"
+	},
+	{
+		"actor_id" : 9811,
+		"movie_id" : 6737,
+		"role" : ""
+	},
+	{
+		"actor_id" : 9822,
+		"movie_id" : 1455,
+		"role" : ""
+	},
+	{
+		"actor_id" : 9836,
+		"movie_id" : 8908,
+		"role" : "Récitant/Narrator"
+	},
+	{
+		"actor_id" : 9840,
+		"movie_id" : 7681,
+		"role" : "Kweku"
+	},
+	{
+		"actor_id" : 9847,
+		"movie_id" : 8888,
+		"role" : "Taizo Murayama"
+	},
+	{
+		"actor_id" : 9861,
+		"movie_id" : 6415,
+		"role" : "A drinker at bar"
+	},
+	{
+		"actor_id" : 9861,
+		"movie_id" : 7462,
+		"role" : "Fourcade"
+	},
+	{
+		"actor_id" : 9866,
+		"movie_id" : 4004,
+		"role" : ""
+	},
+	{
+		"actor_id" : 9866,
+		"movie_id" : 4557,
+		"role" : "Heiroku"
+	},
+	{
+		"actor_id" : 9866,
+		"movie_id" : 9274,
+		"role" : "Dr. Gensai"
+	},
+	{
+		"actor_id" : 9880,
+		"movie_id" : 130,
+		"role" : "Bargali"
+	},
+	{
+		"actor_id" : 9893,
+		"movie_id" : 9333,
+		"role" : ""
+	},
+	{
+		"actor_id" : 9906,
+		"movie_id" : 1392,
+		"role" : "Revolutionary"
+	},
+	{
+		"actor_id" : 9927,
+		"movie_id" : 4514,
+		"role" : ""
+	},
+	{
+		"actor_id" : 9959,
+		"movie_id" : 4564,
+		"role" : ""
+	},
+	{
+		"actor_id" : 9968,
+		"movie_id" : 394,
+		"role" : ""
+	},
+	{
+		"actor_id" : 9985,
+		"movie_id" : 9170,
+		"role" : ""
+	},
+	{
+		"actor_id" : 9989,
+		"movie_id" : 1866,
+		"role" : ""
+	}
+]
